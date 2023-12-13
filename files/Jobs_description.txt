@@ -1,0 +1,1737 @@
+Zur Verstärkung unserer technischen Abteilung am Standort Wien suchen wir ab sofort eine/einen Programmierer/in
+IHRE AUFGABEN
+Kreative Lösungsentwicklung für Aufgabenstellungen unserer Kunden
+Projektverantwortung für einzelne Projekte
+Entwickeln von Kundenspezifischen Software Lösungen im WEB-Bereich
+IHR PROFIL
+Einschlägige technische Ausbildung (HTL / FH / Uni)
+Erfahrung im Bereich Programmierung
+Erfahrung im Bereich IT-Support und Administration von Windows-Client und Server-Systemen
+Linux-Kenntnisse
+Kenntnis einer der folgenden Programmiersprachen HTML, CSS, PHP, PYTHON
+Projekterfahrung von Vorteil
+Berufsanfänger sind willkommen
+Sehr gute Deutsch-Kenntnisse
+WIR BIETEN
+Abwechslungsreiche und eigenverantwortliche Tätigkeit
+Langfristige Anstellung in einem erfolgreichen Unternehmen
+Offenes und kollegiales Betriebsklima
+Eine flache Organisationsstruktur und schnelle Entscheidungswege
+IHR GEHALT
+Wir bieten ein attraktives Entgelt für diese Position, welches Ihrer Qualifikation und Erfahrung entspricht. Abhängig von Ihrer Qualifikation und Berufserfahrung ist eine Überzahlung möglich.
+Bei Interesse schicken Sie bitte Ihre aussagekräftige Bewerbung an harald@busta.at.
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+(ab 20 Wochenstunden)
+Wir suchen für die Weiterentwicklung von Webanwendungen auf Basis von PHP / MySQL sowie Javascript eine/einen ProgrammiererIn (ab 20 Wochenstunden).
+Folgendes sollten Sie gut beherrschen:
+die Programmiersprache PHP sowie Javascript
+SQL-Kenntnisse
+Kenntnisse der strukturierten und objektorientierten Programmierung
+Grundkenntnisse in HTML und CSS
+Erfahrung mit Responsive-Design von Vorteil
+Erfahrung im Bereich Information Retrieval von Vorteil (TF/IDF...)
+Gute Deutschkenntnisse (mündlich & schriftlich)
+Ideal wären folgende Fähigkeiten:
+Erfahrung mit
+Java Script-Frameworks (vuejs, KnockoutJS)
+Visualisierungen mit d3js
+NLP-Frameworks (z.B. NLTK, spacy, gensim u.a.)
+Big-Data und Graphen-Datenbanken (z.B. neo4j)
+Weitere Programmiersprachen (z.B. Java, Python)
+Persönliche Anforderungen:
+Selbständigkeit
+Genauigkeit
+Zuverlässigkeit
+Tätigkeiten:
+Programmierung Frontend, Backend, Datenbank
+Auf Wunsch Spezialisierung Frontend/Backend möglich
+Wenn gewünscht: Mitarbeit bei Open-Source-Projekten
+Großteils remote Arbeiten: tägliche Abstimmung via Skype, SVN, Jira etc.
+Wir bieten Ihnen:
+Programmierung mit aktuellen Werkzeugen (Jira, Buildserver, Code-Coverage-Analyse, ...)
+Freie Zeiteinteilung, nach Einarbeitungsphase ist die Arbeit von daheim aus möglich.
+Gemeinsam geplante individuelle Weiterbildung: Kurse, Konferenzen, Online-Kurse, ...
+Freiwillige Nebenleistungen wie Einkaufsgutscheine, Essensgutscheine, Kindergarten-Zuschuss
+Beginn: ab sofort möglich
+Die Bezahlung erfolgt auf Basis des IT-Kollektivvertrags KV Informationstechnologie 2018, Tätigkeitsfamilie ST1 Berufseinsteiger ab 2.273 EUR auf Vollzeitbasis. Eine Überzahlung aufgrund vorhandener Qualifikationen ist möglich.
+Arbeitsstandort: Wien nach Einarbeitungsphase größtenteils REMOTE möglich
+Wenn Sie sich bewerben möchten, dann senden Sie uns ein Email an .
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Wir bauen unser Cyber Risk Advisory Team aus und eröffnen dir individuelle Karrieremöglichkeiten mit spannenden Projekten. Unterstütze unserer Kundinnen und Kunden bei unterschiedlichen Themenstellungen im Cyber Security Umfeld. Bei uns findest du ein kollegiales Umfeld, in welchem du dich sowohl persönlich als auch fachlich weiterentwickeln und wachsen kannst.
+(Senior) PenTester / Red Teaming Consultant (all genders)
+Cyber Risk Advisory
+Deine Aufgaben:
+Durchführung von Security-Testing Projekten und Überprüfung von sicherheitsrelevanten Applikationen, Produkten und Services (alle Arten von Penetrationstests, Code Reviews, Red/Purple Teaming, technische Securityaudits etc.)
+Erstellung von technischen Sicherheitskonzepten und Erarbeitung von kundenspezifischen Maßnahmen zur Behebung gefundener Sicherheitslücken
+Überprüfung von Architekturkonzepten im Rahmen von Bedrohungsanalysen
+Durchführung von Phishing- und Social Engineering Kampagnen
+Planung und Begleitung von technischen Workshops
+Dein Profil:
+Abgeschlossenes Studium mit einschlägiger Spezialisierung bzw. anderswertig erworbene Fachkenntnisse
+(Erste) Berufserfahrung im technischen Beratungsumfeld bzw. als Teil eines Penetration Test Teams, Computer Incident Response Teams, Computer Emergency Response Teams oder im Security Operations Center
+Fachexpertise in System- und Applikationssicherheit, gängigen Penetration Testing Werkzeugen (BurpSuite, Nmap, Kali, Metasploit, etc.)
+Erfahrung in der Softwareentwicklung, mit AWS oder Azure und Kenntnisse von Python, Go, PHP oder C#
+Überzeugende Kommunikationsfähigkeit in Deutsch und Englisch
+Unser Angebot:
+Teamorientiertes und modernes Arbeitsumfeld im Stadtzentrum
+Abwechslungsreiche Tätigkeiten in spannenden nationalen und internationalen Projekten
+Umfassende Aus- und Weiterbildungsprogramme sowie Förderung postgradualer Zertifizierungen (z.B. CISSP, CCSK, CISA, CISM, CEH etc.)
+Ausgezeichnete Karrieremöglichkeiten bei einem Global Player
+Flexibles Arbeitszeitmodell und Home Office möglich
+
+
+Jahresbruttogehalt ab € 37.800,- (nicht All In) auf Level Consultant. Die Vergütung orientiert sich selbstverständlich an deiner individuellen Qualifikation und positionsrelevanten Berufserfahrung. Darüber hinaus bieten wir attraktive Fringe Benefits.
+
+Bei Deloitte legen wir Wert auf eine inklusive und respektvolle Unternehmenskultur. Mehr dazu findest du hier.
+What impact will you make?
+www.deloitte.at/karriere
+Jetzt bewerben
+Eckdaten
+Dienstort/e: Wien, Linz, Salzburg, Graz, Innsbruck
+Ab wann: flexibel
+Anstellungsart: Vollzeit
+Über Deloitte
+Deloitte Österreich ist der führende Anbieter von Professional Services.
+
+Mit rund 1.450 Mitarbeiterinnen und Mitarbeitern an 13 Standorten werden Unternehmen und Institutionen in den Bereichen Wirtschaftsprüfung, Steuerberatung, Consulting, Financial Advisory und Risk Advisory betreut.
+Dein Kontakt
+Theresa Glinzerer, Bakk. phil.
+(+43/1/53700-2513)
+Renngasse 1
+1010 Wien
+www.deloitte.at
+Top 5 Benefits
+www.deloitte.at/benefits
+Stay connected
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Standort: Wien
+Arbeitszeit: Vollzeit (38,5 Stunden pro Woche)
+Hast du schon erste Erfahrung in der Softwareentwicklung sammeln können und möchtest dein Wissen nun weiter vertiefen? Du würdest gern weitere Berufserfahrung bei einem führenden österreichischen Webhostingunternehmen sammeln und unser internes Entwicklerteam unterstützen? Dann haben wir für dich genau das Richtige!
+Für den Sommer 2023 bieten wir an unserem Standort in Wien ein Praktikum im Development an.
+Deine Aufgaben
+Du spezifizierst, entwirfst und implementierst Softwarelösungen
+Du entwickelst eigenverantwortlich und im Team neue Features
+Du setzt Features und Tests in objektorientierter Weise um
+Du automatisierst interne Abläufe
+Du nimmst an Scrum-Meetings teil
+Dein Profil
+Du stehst am Ende deines Bachelor-Studiums oder hast ein laufendes Master-Studium an einer Universität mit Schwerpunkt Informatik/Software Engineering
+Erfahrung in der Entwicklung mit einer objektorientierten Programmiersprache (OOP) wie PHP, Python, Java oder C#
+Erfahrung mit Frameworks wie Symfony, Laravel oder Spring von Vorteil
+erste Erfahrung mit relationalen Datenbanken (SQL)
+sehr gute Deutsch-Kenntnisse in Wort und Schrift
+Teamplayer, hohe Lösungskompetenz sowie strukturierte und genaue Arbeitsweise
+Hast du einen öffentlichen Code auf GitHub und Co? Dann freuen wir uns darauf!
+Anstellungsdauer: 3 Monate im Sommer. Wir freuen uns besonders über Kandidatinnen und Kandidaten, die uns im Anschluss an das Praktikum noch weiter begleiten: Bitte gib in deiner Bewerbung an, ob du danach auf Teilzeitbasis und in welchem Ausmaß weiterarbeiten möchtest.
+Unsere Benefits:
+zeitlich & örtlich flexibles Arbeiten durch hybrides Arbeitsmodell und gelebter Work-Life-Balance
+individuelle Aus- & Weiterbildungsangebote
+moderne Ausstattung für das Home-Office sowie in neu gestalteten, gut erreichbaren Büros (u.a. höhenverstellbare Tische, etc.)
+arbeiten mit innovativen Technologien inklusive Option zur frühen Verantwortungsübernahme
+zahlreiche Mitarbeiter- & Teamevents sowie Fitness- & Gesundheitsmaßnahmen
+zusätzlicher Urlaubstag zum Geburtstag sowie 24.12. und 31.12. ganztags frei
+für die kleine Stärkung zwischendurch gibt es Bio-Obst, Müsli, Getränke und Süßes
+Jahresbruttogehalt:
+auf Basis einer Vollzeitbeschäftigung bieten wir ein Jahresbruttogehalt ab EUR 26.600 brutto je nach Qualifikation und beruflicher Erfahrung.
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Dienstort: Wien
+Arbeitszeit: 38,5 Std.
+Jahres-Bruttogehalt: ab EUR 26.600
+Hast du schon erste Erfahrung in der Softwareentwicklung sammeln können und möchtest dein Wissen nun weiter vertiefen? Du würdest gern weitere Berufserfahrung bei einem führenden österreichischen Webhostingunternehmen sammeln und unser internes Entwicklerteam unterstützen?
+Dann haben wir für dich genau das Richtige!
+Deine Aufgaben
+Du spezifizierst, entwirfst und implementierst Softwarelösungen
+Du entwickelst eigenverantwortlich und im Team neue Features
+Du setzt Features und Tests in objektorientierter Weise um
+Du automatisierst interne Abläufe
+Du nimmst an Scrum-Meetings teil
+Deine Qualifikationen
+Du stehst am Ende deines Bachelor-Studiums oder hast ein laufendes Master-Studium an einer Universität mit Schwerpunkt Informatik/Software Engineering
+Erfahrung in der Entwicklung mit einer objektorientierten Programmiersprache (OOP) wie PHP, Python, Java oder C#
+Erfahrung mit Frameworks wie Symfony, Laravel oder Spring von Vorteil
+erste Erfahrung mit relationalen Datenbanken (SQL)
+sehr gute Deutsch-Kenntnisse in Wort und Schrift
+Teamplayer, hohe Lösungskompetenz sowie strukturierte und genaue Arbeitsweise
+
+Hast du einen öffentlichen Code auf GitHub und Co? Dann freuen wir uns darauf!
+Dein Gehalt
+EUR 1.900.- brutto pro Monat
+
+Anstellungsdauer: 3 Monate im Sommer. Wir freuen uns besonders über Kandidatinnen und Kandidaten, die uns im Anschluss an das Praktikum noch weiter begleiten: Bitte gib in deiner Bewerbung an, ob du danach auf Teilzeitbasis und in welchem Ausmaß weiterarbeiten möchtest.
+Deine Benefits
+Gute Anbindung
+Fitnessangebote
+Flexible Arbeitszeiten
+Mitarbeiter-Events
+Obst
+Getränke
+Barrierefreiheit
+Brettspiele
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Was erwartet dich?
+Du übernimmst die Wartung und Weiterentwicklung unserer AWS-Cloud-Infrastruktur
+Du stellst die Verfügbarkeit unserer Anwendungen wie APIs und Websites durch den Einsatz von Traffic Load Balancing, Compute Auto-Scaling oder DB-Clustern sicher
+Du setzt moderne Technologien zur zuverlässigen Erstellung und Bereitstellung von Infrastruktur als Code (in Containern oder auf virtuellen Maschinen über Terraform & Ansible) ein
+Du minimierst Sicherheitsrisiken durch die Entwicklung und Pflege von Firewall- und automatisierten Backup-Systemen (Virtual Private Cloud und VPN)
+Du überwachst unserer Cloud-Infrastruktur und kümmerst dich um die Fehlersuche
+Du definierst und sammelst relevante Metriken und Protokolle, um die Verfügbarkeit und Stabilität unserer Dienste zu gewährleisten (DataDog, Graylog)
+Du analysierst Ausfälle, Systemfehler und anderen Anomalien in Produktionssystemen (z. B. langsame Datenbankabfragen, API-Ausfälle, unwirksames Caching usw.)
+Du identifizierst und behebst potenzielle Engpässe in unserem Tech-Stack
+Du unterstützt unsere Entwicklungsteams
+Sie richten CI/CD-Pipelines (GitLab) ein und pflegen sie
+Sie evaluieren und testen neue Technologien vor der Produktivsetzung
+Was solltest du mitbringen?
+Du hast einen Bachelor-Abschluss in Informatik oder eine ähnliche Ausbildung
+Du kannst Erfahrung im Umgang mit Linux und Netzwerk- und Internetgrundlagen (TCP/IP, HTTP, DNS) vorweisen
+Du bist mit Skriptsprachen wie Python oder Bash sowie SQL (MySQL) vertraut
+Du besitzt idealerweise Cloud Computing-Kenntnisse, Arbeitserfahrung als System Engineer und Grundkenntnisse in einer der von uns am häufigsten verwendeten Programmiersprachen (PHP, Java, Ruby)
+Du besitzt ausgeprägte analytischen Fähigkeiten und liebst du es, fast jedes Problem proaktiv zu lösen
+Du bist in der Lage, selbstständig zu arbeiten, aber Teamarbeit ist für dich kein Fremdwort
+Du verfügst über Englischkenntnisse auf C1-Niveau, Deutsch wäre ein starkes Plus
+Was bieten wir dir?
+Sei du selbst und beteilige dich an unserer diskriminierungsfreien Unternehmenskultur mit flachen Hierarchien, Offenheit und vielen wirklich netten und anständigen Menschen
+Du erlebst unser schlankes, agiles und hochdynamisches Arbeitsumfeld mit vielfältigen Tätigkeiten und viel Raum für Kreativität und Mitgestaltung unseres gemeinsamen Weges
+Wir unterstützen dich bei der Aufstellung deines persönlichen Entwicklungsplans, Workshops, Trainings und regelmäßigem Feedback.
+Wir arbeiten in modernen, verspielten und zentral gelegenen Büros, ergonomisch ausgestattet und mit täglich frischem Obst, Gemüse & Joghurt sowie einer Tee- und Kaffee-Flatrate mit deiner Lieblingsmilch (vegan-freundlich)
+Laptop, Tastatur, Bildschirm? Hier bekommst du die neueste technische Ausstattung
+Flexible Arbeitszeitmodelle, Vertrauensarbeitszeit, mobile Arbeitsformen sowie die Möglichkeit eines Sabbatjahrs
+Erlebe mit uns legendäre Teamevents und Feiern, wie unser jährliches Sommerfest oder unser Weihnachtsevent
+Bring dein Kind und deinen Hund mit ins Büro und lassen dich von uns mit einem Zuschuss für die Kinderbetreuung unterstützen
+Erhalte exklusive Rabatte bei verschiedenen Anbietern
+Wir sind klimaneutral! Aber es gibt noch mehr zu tun! Engagiere dich als #orangeofficer, um unser Unternehmen noch nachhaltiger zu machen
+Unser Jobangebot IT Manager:in - Support Engineer / AWS Cloud / IT Sicherheit / Python / SQL / Home Office klingt vielversprechend? Dann freuen wir uns auf eine Bewerbung über Workwise.
+Bei unserem Partner Workwise kann man sich in nur wenigen Minuten ohne Anschreiben für diesen Job bewerben und den Status der Bewerbung live verfolgen.
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Du interessierst Dich für neue Technologien und du bist hoch motiviert diese zu erlernen. Du hast Erfahrung in der selbstständigen technischen Koordination und Umsetzung von No-Code- und Low-Code-Applikationen in der Cloud und warst selbst schon als Entwickler tätig. Du schaust über den Tellerrad hinaus und hast einen pragmatischen und funktionellen Ansatz, wenn es darum geht an Problemstellungen ranzugehen.
+#PROFILE
+Als Project Manager - Cloud Service Development bei Anexia richtet sich Dein Fokus auf Implementierung von Cloud Services sowie Digitalisierung und Automatisierung von Prozessen für unsere Kunden. Im Zuge von Workshops erhebst, analysierst und strukturierst Du individuelle Kundenwünsche und erstellst Applikationsarchitekturen auf Basis von bestehenden Cloud Services. Du koordinierst die Aufgabenverteilung innerhalb Deines agilen Entwickler-Teams und überwachst die Abhängigkeiten von Tasks. Aufgaben wie Anforderungserhebung, Erstellung und Aufbereitung von Spezifikationen, sowie Aufbereitung von Change Requests und Software Releases in enger Abstimmung mit dem Kunden gehören ebenso zu Deinem Tätigkeitsbereich, wie auch die fachliche Leitung von Sprint Reviews und Plannings.
+#WANTED
+Informatik-Ausbildung oder entsprechende berufliche Praxis
+Erfahrung im Umgang mit Cloud Services verschiedenster Anbieter (AWS, Azure etc.)
+Praktische Erfahrung als Software Developer idealerweise im Python- oder PHP-Umfeld
+Kenntnisse in der Entwicklung von APIs (REST, GraphQL etc.)
+JIRA und Confluence-Kenntnisse von Vorteil
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+Kommunikationsstärke, selbstständige und zuverlässige Arbeitsweise sowie Teamfähigkeit, Motivation und Eigeninteresse
+#REWARD
+Anexia wurde als Familie groß und das soll auch in unserer Wachstumsstrategie so bleiben. Wir übernehmen gerne Verantwortung, respektieren einander und wir wissen, dass wir alles schaffen können. Wir schauen gut auf Anexia und Anexia schaut auch gut auf uns. Begeisterung, Erfahrung und Kompetenz zählen, daher kannst Du ein faires Gehalt und zahlreiche Benefits erwarten.
+Wir sind mehr als ein Arbeitsplatz. Daher bieten wir unseren Mitarbeiter:innen (teils abhängig von Deiner Position und Deinem Standort) viele Benefits: Gute Verkehrsanbindung, flexible Arbeitszeiten, Aus- und Weiterbildung, Mentoren-Programm, kostenlose Parkplätze, Arbeitshandy- und -notebook, Snacks und Getränke, Firmenwagen, Mitarbeiter:innen-Events, Fun-Corner, u.v.m.
+
+Standort: Wien, Karlsruhe, Klagenfurt, Graz, Remote
+Arbeitszeit: Vollzeit
+Einstiegsgehalt: mind. 48.400€
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+SEQIS ist der führende österreichische Anbieter in den Spezialbereichen IT Analyse, Development, Softwaretest und Projektmanagement. Beratung, Verstärkung und Ausbildung: Hochwertige Qualitätssicherung für die IT. Weitere Informationen zum Unternehmen findest Du unter www.SEQIS.com und www.razzfazz.io
+Zur Verstärkung unseres Teams suchen wir ehestmöglich eine/n
+
+
+Full Stack Developer (m/w/d) – Vollzeit oder Teilzeit (ab 30h)
+
+Du arbeitest von der Homebase in Wien aus projektbasiert an folgenden Themen für unsere Kunden:
+Entwicklung von Progressive Web Apps, Desktop Apps, Mobile Apps, Native Apps
+mit Javascript, Java, .Net, PHP, Python, Ruby, Angular, React, React Native
+…und das alles in einem agilen Umfeld
+
+Als Teil der SEQIS Family mit Homebases in Wien und Mödling genießt Du die Vorteile eines familiären Unternehmens:
+Persönliche und fachliche Weiterentwicklungsmöglichkeiten (Requirements Engineering, Business Analyse, Business Analyse, Testautomatisierung, Testmanagement, Softskills…)
+Familiäre Firmenkultur mit hohem Qualitätsanspruch
+Regelmäßige interne Weiterbildungsworkshops
+Einkaufsvergünstigungen
+Zahlreiche Team Events - wir feiern regelmäßig gemeinsam unserer Erfolge
+Unser Leitbild: Nur was man gerne macht, macht man richtig gut
+
+Folgende Skills und Erfahrungen zeichnen die SEQIS ExpertInnen aus:
+Aufgeschlossenheit gegenüber Menschen und Ideen, sowie Freude an wechselnden Aufgaben
+Ausgeprägter Ehrgeiz, qualitativ hochwertige Lösungen zu entwickeln
+Eine abgeschlossene oder laufende Ausbildung (FH, TU) mit Schwerpunkt im IT- Bereich
+Erfahrungen im Bereich Software Entwicklung
+Ausgezeichnete Deutsch- und Englischkenntnisse (min. C1)
+
+Unser Angebot
+Wir bieten für diese Position in Vollzeit (38,5h) ein attraktives Entgelt, das Deiner Qualifikation und Erfahrung entspricht. Aus gesetzlichen Gründen weisen wir darauf hin, dass ein KV Mindestgehalt von € 39.956,- brutto /Jahr gilt.
+Dienstort: Arsenalstrasse 14, 1110 Wien
+
+Wenn Du Teil unseres sympathischen Teams werden möchtest, sende Deine aussagekräftigen Bewerbungsunterlagen auf Deutsch inklusive Gehaltsvorstellungen per Mail an Mag. Susanne Greber: career@SEQIS.com. Oder schick mir Dein Profil über LinkedIn.
+Stellenanzeige als PDF downloaden
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Python, Tailwind, Laravel, Livewire, MySQL, MariaDB
+Wir sind spezialisiert auf Web Scraping, Data & Text Mining, Natural Language
+Processing und Machine Learning und haben eine
+SaaS-Plattform für automatisierte, intelligente Kundenfindung entwickelt. Unsere
+Vision: Es gibt einen optimalen Zeitpunkt, um Kunden das passende Produkt oder
+eine Dienstleistung zu verkaufen. Wir finden diesen Zeitpunkt mithilfe von künstlicher
+Intelligenz.
+Wir suchen eine/n Software Developer/in,
+der/die motiviert ist, an der Entwicklung dieser Plattform mitzugestalten.
+Aufgaben
+Technische Entwicklung der (Teil-)
+Bereiche des Produktes mit großer Freiheit und Impact auf die Entwicklung im Unternehmen
+Aktive Entwicklung und Mitgestaltung eines Softwareproduktes
+Anbindung von Datenquellen und Analyse dieser Quellen
+Weiterentwicklung der technischen Infrastruktur der Firma
+Technische Projektleitung und Umsetzung mit einem Team von mehreren Entwicklern
+Entscheidungsprozesse datengetrieben steuern
+Pflege der technischen Dokumentation
+Bestehende Konzepte selbstständig neu überdenken und zusammen mit dem Team umsetzen
+Qualifikation
+Du bist interessiert an den Themen: Web Scraping, Data & Text Mining, Natural Language Processing und MachineLearning (Python, PHP)
+Du hast bereits etwas Erfahrung im Bereich des Fullstack Developments von min. 5 Jahren
+Du hast Kenntnisse im Bereich Datenbanken und SQL (MySQL, MariaDB).
+Du besitzt problemlösende Fähigkeiten und bist bereit beim Auftreten von Schwierigkeiten auchEigeninitiative zu ergreifen
+Du bist flexibel und kannst deshalb gut in der lockeren Startup-Atmosphäre arbeiten
+Du möchtest Teil eines jungen, dynamischen Teams sein und arbeitest gerne zusammen mit anderen Personen aneinem Projekt
+Du hast ein Gespür für Innovationen, bist offen für Neues und hast Freude an kreativer Entwicklung
+Benefits
+Du wirst ausgestattet mit dem besten Equipment und Möbeln, sowie der neuesten Technik
+Gratis Kaffee und Obst, Tischfußballtische, Flipperautomaten und die Möglichkeit, dir das Mittagessen direkt ins Büro über Mahlzeit-online liefernzu lassen, warten auf dich
+Du arbeitest in einem fördernden Umfeld in einem großen und hellen Neubau-Büro. Die Räumlichkeiten sind im klimatisierten Dachgeschoss inkl. Dachterrasse, wowir im Sommer gemeinsam grillen
+Wir organisieren regelmäßig gemeinsame Teamevents und Reisen zu Kongressen
+Salesy ist auf Wachstumskurs und konstant in Veränderung, für dich der ideale Zeitpunkt, um im technischen Bereich den größten Einfluss zu haben undmit uns die Firma weiterzuentwickeln
+Du arbeitest mit einem hochmotivierten und smarten Team zusammen und hast einen Mentor, der über 20 Jahre Programmiererfahrung hat, Christoph Rumpel
+Die Bezahlung beginnt bei EUR 55.000,- (brutto) jährlich mit Möglichkeit auf Überbezahlung
+Art der Stelle: Vollzeit
+Gehalt: ab 55.000,00€ pro Jahr
+Arbeitszeiten:
+Montag bis Freitag
+Leistungen:
+Betriebliche Weiterbildung
+Betriebsfeiern
+Erfolgsbeteiligung
+Firmenhandy
+Kostenlose Getränke
+Kostenloses oder Vergünstigtes Essen
+Mentoring-Programm für Mitarbeiter
+Sonderzahlungen:
+13. Monatsgehalt
+Urlaubsgeld
+Weihnachtsgeld
+Berufserfahrung:
+Programmieren: 3 Jahre (Wünschenswert)
+Bewerbungsfrist: 24.12.2022
+Voraussichtliches Einstiegsdatum: 15.12.2022
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Arbeitsort
+Linz, Wien
+Stellenbezeichnung
+Security Consultant – Offensive Security (w/m/d)
+SEC Consult (www.sec-consult.com) ist eines der führenden Beratungsunternehmen für Cyber- und Applikationssicherheit. Das Unternehmen mit Niederlassungen in Europa und Asien ist Spezialist für externe und interne Sicherheitsüberprüfungen, Penetrationstests, den Aufbau von Informationssicherheits-Management und Zertifizierungsbegleitung nach ISO 27001, Cyber-Defence, sichere Software(-Entwicklung) und die schrittweise, nachhaltige Verbesserung des Sicherheitsniveaus.
+Aufgaben
+Du setzt als Informationssicherheitsexperte dein Wissen und deine Fähigkeiten ein um Schwachstellen zu finden, bevor sie von Angreifern ausgenutzt werden
+Du arbeitest in einem globalen Team von Experten an abwechslungsreichen und herausfordernden Kundenprojekten
+Du brennst für das Thema Informationssicherheit und setzt deine Kreativität und dein Auge fürs Detail ein, um für unsere Kunden herausragende Ergebnisse zu liefern
+Qualifikationen
+Gute Kenntnisse im Bereich Applikationssicherheit und Penetration Testing (z.B. Webapplikationen, Mobile Applikationen, Infrastructure-Sicherheit, IoT)
+Erfahrung mit Programmiersprachen wie Python, PHP, C/C++, C# und Java
+Die Fähigkeit sich relevantes Wissen schnell anzueignen
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+Wir bieten
+Mitarbeit in einem erfolgreichen, internationalen und innovativen Sicherheitsunternehmen
+Zugang zu renommierten Trainings und Zertifizierungen (z. B. Offensive Security, SANS/GIAC, CREST)
+Entwicklungsmöglichkeiten in verschiedensten Bereichen, zum Beispiel Red Teaming, Incident Response, IoT/Embedded System Security, IT Infrastructure Secuity, Cloud Security, Mobile Security, SAP Security, Reverse Engineering, Kryptografie …
+Spannendes und abwechslungsreiches Tätigkeitsfeld mit erfahrenen Security-Experten
+Mitarbeit in einem motivierten Team
+Möglichkeit zur persönlichen und fachlichen Weiterentwicklung, Forschung an neuen Technologien, Besuch von Konferenzen und Workshops
+Diverse zusätzliche Benefits
+Arbeit an einem zertifizierten Great Place to Work®
+Für diese Position ist ein monatliches Grundgehalt ab brutto 2.635,- auf Vollzeitbasis vorgesehen. Abhängig von Ihrer Qualifikation und Erfahrung bieten wir eine entsprechend marktkonforme Überzahlung sowie zusätzliche Prämien.
+Bewerbung an
+Christine Teichert, B.A.
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Du brennst darauf bereits während deines Studiums dein Wissen anzuwenden? Zu zeigen was in dir steckt und dein Team mit neuen Ideen zu begeistern? Dann bist du bei Deloitte Cyber Risk Advisory bestens aufgehoben.
+
+Du hast die Möglichkeit für die Dauer von 4-7 Monaten bei uns ein Praktikum zu absolvieren.
+Praktikum Cyber Risk Advisory 2023/24
+Information & IT Security
+Deine Aufgaben:
+Beratung, Entwicklung und Prüfung von Konzepten und Prozessen im Bereich Information und IT Security, Identity & Access Management und Datenschutz (Fokus EU-DSGVO)
+Durchführung von Security und IT-Audits
+Mitarbeit bei internationalen Projekten zu Information Security und IT Security
+Konzeption, Planung und Durchführung von Schwachstellenprüfungen und Penetrationstests in den Bereichen Netzwerksicherheit, Web Applications, Mobile Security, OS Security, Social Engineering
+Dein Profil:
+Student:in der Informatik mit einschlägiger Spezialisierung
+Starkes Interesse an den Bereichen Information Security und IT Security
+Grundlegende Kenntnisse von Scripts und Programmiersprachen (z.B. Python, Java, PHP)
+Idealerweise grundlegende Kenntnisse von Security Frameworks und IT Sicherheitskonzepten
+Sehr gute Deutsch- und Englischkenntnisse
+Unser Angebot:
+Teamorientiertes und modernes Arbeitsumfeld im Stadtzentrum
+Herausfordernde und abwechslungsreiche Tätigkeiten in (inter-)nationalen Projekten
+Einblicke in unterschiedliche Unternehmen verschiedenster Branchen
+Mentoring durch Fachexpert:innen in offener Feedbackkultur
+Flexibles Arbeitszeitmodell und Home Office möglich
+
+
+Jahresbruttogehalt ab € 25.340,-. Die Vergütung orientiert sich selbstverständlich an deiner individuellen Qualifikation und positionsrelevanten Berufserfahrung. Darüber hinaus bieten wir attraktive Fringe Benefits.
+
+Bei Deloitte legen wir Wert auf eine inklusive und respektvolle Unternehmenskultur. Mehr dazu findest du hier.
+What impact will you make?
+www.deloitte.at/karriere
+Jetzt bewerben
+Eckdaten
+Dienstort/e: Wien, Linz
+Ab wann: flexibel
+Anstellungsart: Vollzeit
+Über Deloitte
+Deloitte Österreich ist der führende Anbieter von Professional Services.
+
+Mit rund 1.450 Mitarbeiterinnen und Mitarbeitern an 13 Standorten werden Unternehmen und Institutionen in den Bereichen Wirtschaftsprüfung, Steuerberatung, Consulting, Financial Advisory und Risk Advisory betreut.
+Dein Kontakt
+Theresa Glinzerer, Bakk. phil.
+(+43/1/53700-2513)
+Renngasse 1
+1010 Wien
+www.deloitte.at
+Top 5 Benefits
+www.deloitte.at/benefits
+Stay connected
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Dienstort: Wien oder Remote
+Arbeitszeit: 38,5 Std.
+Jahres-Bruttogehalt: ab EUR 50.000
+In dieser Position kümmerst du dich um die Architektur und Programmierung unseres verteilten Software Stacks für Netzwerk, Backup und unser Mail- und Webhosting. Du bringst deine Neugier oder Erfahrung mit Linux und anderer Open Source Software ein, um unsere Softwareprojekte effizient voranzubringen. Du hast Freude daran, mit Eigeninitiative und Kreativität gut durchdachte Lösungen zu finden? Dann freuen wir uns, dich kennenzulernen!
+Deine Aufgaben
+Du entwickelst unser zentrales Kernsystem für Kunden und Produkte mit Schwerpunkt im Backend Bereich weiter
+Du gestaltest die Software für unsere systemnahen Dienste wie unser Mail- und Webhosting entscheidend mit
+Du entwirfst und implementierst neue APIs und stellst die Integration zwischen unserem Kernsystem und den systemnahen Diensten sicher
+Du bist für die selbstständige Durchführung agiler Projekte in Zusammenarbeit mit KollegInnen deines Teams und anderer Bereiche verantwortlich
+Nach einer Einschulungsphase von 1-2 Wochen vor Ort in Wien ist die Arbeit per remote möglich
+Deine Qualifikationen
+mehrjährige Erfahrung als Software Engineer oder abgeschlossenes Hochschulstudium
+umfassendes Know How mit einer objektorientierten Programmiersprache (OOP) wie PHP, Python, Java oder C#
+Erfahrung mit einem modernen Web-Framework wie Symfony, Laravel oder Spring von Vorteil
+Keine Angst vor großen Datenmengen in relationalen Datenbanken
+Erfahrung mit automatisierten Testframeworks (z.B. PHPUnit, JUnit, Pytest)
+Kenntnisse in Container-Architekturen, Versionsverwaltung (Git), Continuous Integration (CI) und Continuous Delivery (CD) wünschenswert
+Du findest dich auf der Linux-Shell zurecht
+Du magst die Abwechslung und hast keine Scheu davor, dich mit neuen Technologien auseinanderzusetzen
+sehr gute Deutschkenntnisse, Englisch in Wort und Schrift
+Dein Gehalt
+ab EUR 50.000 brutto / Jahr je nach Qualifikation und Erfahrung
+Deine Benefits
+Gute Anbindung
+Fitnessangebote
+Aus- und Weiterbildung
+Home Office
+Flexible Arbeitszeiten
+Mitarbeiter-Events
+Mitarbeitergeschenke
+Gesundheit
+Obst
+Getränke
+Barrierefreiheit
+Brettspiele
+Notebook
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Was erwartet dich?
+Du übernimmst die Wartung und Weiterentwicklung unserer AWS-Cloud-Infrastruktur
+Du stellst die Verfügbarkeit unserer Anwendungen wie APIs und Websites durch den Einsatz von Traffic Load Balancing, Compute Auto-Scaling oder DB-Clustern sicher
+Du setzt moderne Technologien zur zuverlässigen Erstellung und Bereitstellung von Infrastruktur als Code (in Containern oder auf virtuellen Maschinen über Terraform & Ansible) ein
+Du minimierst Sicherheitsrisiken durch die Entwicklung und Pflege von Firewall- und automatisierten Backup-Systemen (Virtual Private Cloud und VPN)
+Du überwachst unserer Cloud-Infrastruktur und kümmerst dich um die Fehlersuche
+Du definierst und sammelst relevante Metriken und Protokolle, um die Verfügbarkeit und Stabilität unserer Dienste zu gewährleisten (DataDog, Graylog)
+Du analysierst Ausfälle, Systemfehler und anderen Anomalien in Produktionssystemen (z. B. langsame Datenbankabfragen, API-Ausfälle, unwirksames Caching usw.)
+Du identifizierst und behebst potenzielle Engpässe in unserem Tech-Stack
+Du unterstützt unsere Entwicklungsteams
+Sie richten CI/CD-Pipelines (GitLab) ein und pflegen sie
+Sie evaluieren und testen neue Technologien vor der Produktivsetzung
+Was solltest du mitbringen?
+Du hast einen Bachelor-Abschluss in Informatik oder eine ähnliche Ausbildung
+Du kannst Erfahrung im Umgang mit Linux und Netzwerk- und Internetgrundlagen (TCP/IP, HTTP, DNS) vorweisen
+Du bist mit Skriptsprachen wie Python oder Bash sowie SQL (MySQL) vertraut
+Du besitzt idealerweise Cloud Computing-Kenntnisse, Arbeitserfahrung als System Engineer und Grundkenntnisse in einer der von uns am häufigsten verwendeten Programmiersprachen (PHP, Java, Ruby)
+Du besitzt ausgeprägte analytischen Fähigkeiten und liebst du es, fast jedes Problem proaktiv zu lösen
+Du bist in der Lage, selbstständig zu arbeiten, aber Teamarbeit ist für dich kein Fremdwort
+Du verfügst über Englischkenntnisse auf C1-Niveau, Deutsch wäre ein starkes Plus
+Was bieten wir dir?
+Sei du selbst und beteilige dich an unserer diskriminierungsfreien Unternehmenskultur mit flachen Hierarchien, Offenheit und vielen wirklich netten und anständigen Menschen
+Du erlebst unser schlankes, agiles und hochdynamisches Arbeitsumfeld mit vielfältigen Tätigkeiten und viel Raum für Kreativität und Mitgestaltung unseres gemeinsamen Weges
+Wir unterstützen dich bei der Aufstellung deines persönlichen Entwicklungsplans, Workshops, Trainings und regelmäßigem Feedback.
+Wir arbeiten in modernen, verspielten und zentral gelegenen Büros, ergonomisch ausgestattet und mit täglich frischem Obst, Gemüse & Joghurt sowie einer Tee- und Kaffee-Flatrate mit deiner Lieblingsmilch (vegan-freundlich)
+Laptop, Tastatur, Bildschirm? Hier bekommst du die neueste technische Ausstattung
+Flexible Arbeitszeitmodelle, Vertrauensarbeitszeit, mobile Arbeitsformen sowie die Möglichkeit eines Sabbatjahrs
+Erlebe mit uns legendäre Teamevents und Feiern, wie unser jährliches Sommerfest oder unser Weihnachtsevent
+Bring dein Kind und deinen Hund mit ins Büro und lassen dich von uns mit einem Zuschuss für die Kinderbetreuung unterstützen
+Erhalte exklusive Rabatte bei verschiedenen Anbietern
+Wir sind klimaneutral! Aber es gibt noch mehr zu tun! Engagiere dich als #orangeofficer, um unser Unternehmen noch nachhaltiger zu machen
+Unser Jobangebot IT Manager:in - Support Engineer / AWS Cloud / IT Sicherheit / Python / SQL / Home Office klingt vielversprechend? Dann freuen wir uns auf eine Bewerbung über Campusjäger by Workwise.
+Bei unserem Partner Campusjäger kann man sich in nur wenigen Minuten ohne Anschreiben für diesen Job bewerben und den Status der Bewerbung live verfolgen.
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+AT / Vienna / Wolfganggasse
+Präsenz / Mobil
+Berufserfahrung
+Vollzeit
+Jahresgehalt: 55.000 - 70.000 EUR
+Publiziert: 11.01.2023
+A company of K-Businesscom
+At K-Converged Services (KCS), a company of K-Businesscom, we are the specialist for development and implementation of converged IT services and IT solutions. With more than 110 dedicated colleagues at our locations in Vienna and Graz, we are working together on creative, future-proof solutions for the digital transformation.
+
+Monitoring data is right up your alley, at best with Splunk? We have an offer for you!
+#To-do:
+As Senior NMS Engineer you will be able to live your desire for monitoring whilst working, especially in these things:
+E2E responsibility for the development, maintenance, enhancement and run of the monitoring solution Splunk
+Ensuring availability of network monitoring and assurance systems (in the area of IT and Network Operations) for our customers
+Performing application and infrastructure analysis and troubleshooting
+Define, design and deploy new monitoring and assurance solutions for different technologies
+#YOU:
+Technical university degree or several years of equivalent technical work experience.
+Experience in Splunk is highly preferred, experience in Nagios, Spectrum, open source is also an advantage
+Hands-on knowledge in IP networking technologies, operating system/server management (UNIX/LINUX)
+Scripting skills on any of these languages: Python, PHP, Perl, Shell, Java
+Good English skills are a must, German is a plus
+#WHY:K
+At KCS we walk the talk and deliver. And perhaps soon together with you?
+Perspective // our promise: crisis-proof | flat hierarchies | agile thinking | growth perspective in the DACH region
+Social Benefits // we live it: we attach importance to well-being & satisfaction | from A like Auto parking to Z like Zoo allowances | flexitime without core time | pension scheme | shopping discounts | green mobility (including job and climate ticket, company bike).
+Agile Spirit // that's us: Flexibility in all phases of life | New Work | Remote Working | You-culture from internship to management
+Attractive compensation: we offer you compensation well above the applicable telecommunications CLA, ranging from EUR 55,000 to EUR 70,000 gross pa. We will dicuss the details personally.
+... cleared for take-off? Take-off with us! Start your boarding right now online or via E-Mail to kcs.people@k-business.com
+#JOIN:THE:DIGITAL:REVOLUTION
+
+Your contact:
+"Are you ready for the digital world? I happily support you throughout your KCS boarding!"
+Bettina Schwab
+People Operations Specialist
++43 676 8520306501
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Reisebegleitung für die Cloud Journey gesucht. Deine Erfahrung, Sorgfalt und Leidenschaft als Expert:in für Google Cloud Platform (GCP) Lösungen machen dich zu einer tragenden Stütze des Accenture Google Cloud Teams, dem führenden GCP-Partner in der DACH-Region. Komm an Bord eines der weltweit größten Beratungs- und Technologieunternehmen und hilf uns, namhafte Kunden mit GCP fit für ihre Reise zur Cloud zu machen, um sie so auf ihrem cloud-optimierten Weg in die Zukunft zu begleiten. Im sicheren, grenzenlosen Chancen-Umfeld bei Accenture erlebst du dabei nicht nur Beratung, Integration und Entwicklung, sondern auch auch Lizenzierung und Training aus einer Hand.
+Das erwartet dich
+Rund um Google-Cloud-Themen und Technologieentscheidungen berätst du Kunden und stellst ihnen geeignete Lösungen für die Google Cloud Platform (GCP) vor.
+In Zusammenarbeit mit Teams auf Kundenseite findest du die jeweils passende, ganzheitlich-optimierte Lösung, die du im Anschluss scriptest, codest und implementierst.
+Von Zeit zu Zeit übernimmst du auch interne Aufgaben (z. B. im Zusammenhang mit Ausschreibungen) und bringst so das Business Development voran.
+Darüber hinaus liegen Requirement- und Risiko-Analyse in deinen Aufgabenbereich.
+
+Darauf freuen wir uns
+Abgeschlossenes technisches Studium in (Wirtschafts-)Informatik, BWL oder einer vergleichbaren Fachrichtung
+Mindestens zwei Jahre Berufserfahrung im Bereich IT oder IT-Architektur
+Erfahrung mit GCP (GCP-Zertifizierung wäre von großem Vorteil) und Erfahrung in einer der gängigen Programmiersprachen (z. B. Java, Python, JavaScript, Go, PHP o. ä.)
+Gute People Management Skills
+Deine Vorteile bei Accenture
+Du als Mensch bist uns wichtig. Das wirst du täglich spüren und erleben. Denn unsere Arbeitswelt ist auf dich ausgerichtet und bietet dir die umfassenden Benefits eines großen, verantwortungsvollen Arbeitgebers. Dein zukünftiges Team schätzt vor allem
+flexible Arbeitszeitmodelle und die Option, im Homeoffice zu arbeiten
+umfassende Trainingsangebote, Fort- und Weiterbildungsmöglichkeiten
+interessante Karriereoptionen
+unsere Arbeitskultur, die Diversität und Inklusion fördert
+Dein Kontakt
+Du hast Fragen? Dann wende dich gerne an unser Recruiting Team per E-Mail an recruiting_austria@accenture.com.
+Basierend auf deiner persönlichen Leistung hast du bei uns die Möglichkeit, dein Jahreseinkommen aktiv positiv zu beeinflussen. Das Jahresbruttogehalt startet bei dieser Position bei € 50.000.
+
+Wir freuen uns auf deine Bewerbung!
+#CIE #BusinessGroups
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Python, Tailwind, Laravel, Livewire, MySQL, MariaDB
+
+Wir sind spezialisiert auf Web Scraping, Data & Text Mining, Natural Language
+Processing und Machine Learning und haben eine
+SaaS-Plattform für automatisierte, intelligente Kundenfindung entwickelt. Unsere
+Vision: Es gibt einen optimalen Zeitpunkt, um Kunden das passende Produkt oder
+eine Dienstleistung zu verkaufen. Wir finden diesen Zeitpunkt mithilfe von künstlicher
+Intelligenz.
+
+Wir suchen eine/n Software Developer/in,
+der/die motiviert ist, an der Entwicklung dieser Plattform mitzugestalten.
+
+Aufgaben
+
+Technische Entwicklung der (Teil-)
+Bereiche des Produktes mit großer Freiheit und Impact auf die Entwicklung im
+Unternehmen
+Aktive Entwicklung und
+Mitgestaltung eines Softwareproduktes
+Anbindung von Datenquellen und
+Analyse dieser Quellen
+Weiterentwicklung der technischen
+Infrastruktur der Firma
+Technische Projektleitung und Umsetzung
+mit einem Team von mehreren Entwicklern
+Entscheidungsprozesse
+datengetrieben steuern
+Pflege der technischen
+Dokumentation
+Bestehende Konzepte selbstständig
+neu überdenken und zusammen mit dem Team umsetzen
+
+Qualifikation
+
+Du bist interessiert an den Themen:
+Web Scraping, Data & Text Mining, Natural Language Processing und Machine
+Learning (Python, PHP)
+Du hast bereits etwas Erfahrung im
+Bereich des Fullstack Developments von min. 5 Jahren
+Du hast Kenntnisse im Bereich
+Datenbanken und SQL (MySQL, MariaDB).
+Du besitzt problemlösende
+Fähigkeiten und bist bereit beim Auftreten von Schwierigkeiten auch
+Eigeninitiative zu ergreifen
+Du bist flexibel und kannst
+deshalb gut in der lockeren Startup-Atmosphäre arbeiten
+Du möchtest Teil eines jungen,
+dynamischen Teams sein und arbeitest gerne zusammen mit anderen Personen an
+einem Projekt
+Du hast ein Gespür für
+Innovationen, bist offen für Neues und hast Freude an kreativer Entwicklung
+
+Benefits
+
+Du wirst ausgestattet mit dem besten Equipment und Möbeln, sowie der
+neuesten Technik
+Gratis Kaffee und Obst, Tischfußballtische, Flipperautomaten und die
+Möglichkeit, dir das Mittagessen direkt ins Büro über Mahlzeit-online liefern
+zu lassen, warten auf dich
+Du arbeitest in einem fördernden Umfeld in einem großen und hellen Neubau-Büro.
+Die Räumlichkeiten sind im klimatisierten Dachgeschoss inkl. Dachterrasse, wo
+wir im Sommer gemeinsam grillen
+Wir organisieren regelmäßig gemeinsame Teamevents und Reisen zu Kongressen
+Salesy ist auf Wachstumskurs und konstant in Veränderung, für dich der
+ideale Zeitpunkt, um im technischen Bereich den größten Einfluss zu haben und
+mit uns die Firma weiterzuentwickeln
+Du arbeitest mit einem hochmotivierten und smarten Team zusammen und
+hast einen Mentor, der über 20 Jahre Programmiererfahrung hat, Christoph Rumpel
+Die Bezahlung beginnt bei EUR 55.000,- (brutto) jährlich mit
+Möglichkeit auf Überbezahlung
+
+Falls du dich eher als Junior siehst, bewirb dich trotzdem und wir
+arbeiten gemeinsam einen Plan aus, damit du dich fachlich und persönlich
+konstant und langfristig weiterentwickeln kannst
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Du bleibst Du - denn so wollen wir Dich
+Wir können, wir wollen und wir dürfen auch &mdash; denn wir sind ein Team aus hoch motivierten und qualifizierten Mitarbeiter:innen, denen es genauso am Herzen liegt Kund:innen zu begeistern, wie an technischen Lösungen zu bauen. Und das macht uns einzigartig! Wenn Du Dich und unsere Produkte weiter entwickeln möchtest, dann komm zu uns und gestalte die Zukunft von netcup mit!
+Cloud Native Engineer (m/w/d)
+ab sofort | Vollzeit | Wien, Karlsruhe, Klagenfurt, Graz, Remote
+Du interessierst Dich für neue Technologien und du bist hoch motiviert diese zu erlernen. Du hast Erfahrung in der selbstständigen technischen Koordination und Umsetzung von No-Code- und Low-Code-Applikationen in der Cloud und warst selbst schon als Entwickler tätig. Du schaust über den Tellerrad hinaus und hast einen pragmatischen und funktionellen Ansatz, wenn es darum geht an Problemstellungen ranzugehen.
+#PROFILE
+Als Project Manager - Cloud Service Development bei Anexia richtet sich Dein Fokus auf Implementierung von Cloud Services sowie Digitalisierung und Automatisierung von Prozessen für unsere Kunden. Im Zuge von Workshops erhebst, analysierst und strukturierst Du individuelle Kundenwünsche und erstellst Applikationsarchitekturen auf Basis von bestehenden Cloud Services. Du koordinierst die Aufgabenverteilung innerhalb Deines agilen Entwickler-Teams und überwachst die Abhängigkeiten von Tasks. Aufgaben wie Anforderungserhebung, Erstellung und Aufbereitung von Spezifikationen, sowie Aufbereitung von Change Requests und Software Releases in enger Abstimmung mit dem Kunden gehören ebenso zu Deinem Tätigkeitsbereich, wie auch die fachliche Leitung von Sprint Reviews und Plannings.
+#WANTED
+Informatik-Ausbildung oder entsprechende berufliche Praxis
+Erfahrung im Umgang mit Cloud Services verschiedenster Anbieter (AWS, Azure etc.)
+Praktische Erfahrung als Software Developer idealerweise im Python- oder PHP-Umfeld
+Kenntnisse in der Entwicklung von APIs (REST, GraphQL etc.)
+JIRA und Confluence-Kenntnisse von Vorteil
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+Kommunikationsstärke, selbstständige und zuverlässige Arbeitsweise sowie Teamfähigkeit, Motivation und Eigeninteresse
+#WAS WIR BIETEN
+Überdurchschnittliches Gehalt
+Persönliche Entwicklung und Weiterbildung
+Auf Deine individuellen Bedürfnisse zugeschnittene Gratisaktionen
+Großzügige Freizeiträume
+Familiäres und unterstützendes Arbeitsumfeld
+Haben wir Dein Interesse geweckt?
+Wir freuen uns auf Deine ausdrucksstarke Bewerbung!
+#ABOUT
+Das 2008 gegründete Unternehmen ist mittlerweile seit 2016 Teil der internationalen Anexia Gruppe und betreut als Internet Service Provider weltweit über 75.000 Geschäfts- und Privatkund:innen. Unser Schwerpunkt liegt in der Bereitstellung von Webhostings, virtuellen und dedizierten Servern sowie deren Betreuung durch Management-Dienstleistungen. Ebenfalls bieten wir unseren Kund:innen eine große Auswahl an Top Level Domains an.
+Wir betreuen weltweit über 75.000 zufriedene Kunden:innen mit 150.000 Domains
+Unsere Qualität wurde mehrfach ausgezeichnet - Chip Auszeichnung sehr gut
+Teil der Anexia Gruppe mit über 300 Mitarbeitern:innen und mehr als 10 Bürostandorten, weltweit
+Du hast noch Fragen?Marina MAROS
+|
+Telefon: +49 721 7540 755 0
+|
+E-Mail: jobs@netcup.de
+Art der Stelle: Vollzeit
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+About The Role
+Entain is one of the world’s largest sports betting and gaming groups, operating both online and in the retail sector. With offices across five continents and licences in more than 20 countries, we operate some of the most well-known and iconic brands in the industry with more than 250 years of combined history – names such as Ladbrokes, partypoker, bwin and Coral.
+The Role in a Nutshell:
+As an application security engineer you will work closely with the development and operations teams to implement, rollout and support the operation of security controls at the application layer. This role detects new security needs, evaluates the best controls to integrate in the applications, develops and tests proof of concept, supports the engineering implementation and the rollout as required.
+We are looking for a passionate application security engineer with a hands-on experience in the area of applications security.
+What you’ll be doing:
+Support the operation of application-level security controls.
+Develop tools to improve the security of our applications.
+Incorporate security best-practices in development, testing and DevOps, then mentor and train developers and DevOps management on them.
+Test and improve the security posture of our Products.
+Execute projects to implement the group Application Security strategy.
+Support the investigation of incidents related to application security weaknesses, gaming platform anomalies & integrity compromises.
+Conduct application-level penetration testing/vulnerability assessments and independent reviews of source code repositories.
+Occasional travel to Development centres
+What we need from you:
+The role requires a person with outstanding technical foundations, that has information security background and very good problem-solving skills, been able to have a peer relationship with developers and DevOps.
+Essential
+At least two years of experience in a similar Information Security position
+Design and development of security tools
+Vulnerability research
+Customer-oriented person, with the ability to educate and influence a technical audience on Application Security matters
+Experience in relevant development languages (at least one of Java, C/C++, Perl, PHP, C#, Python)
+Experience in the following areas:
+Knowledge of major frameworks and support libraries (SPRING, OSGI, .NET, etc.)
+Application-level penetration testing
+Desired
+Software engineering background
+Web-Application Firewalls (WAF) experience
+Online Gaming security experience
+Regulatory and industry standards work: ISO27001, PCI-DSS, etc.
+Experience in DevOps
+Relevant professional qualifications will be considered, although not a requirement, e.g. GIAC, CISA, CISM, CISSP, OSCP, CEH, etc.
+What we can offer you:
+Hybrid working – We offer 2 days a week working from home
+Culture – We were once a startup and still have that growth mindset (despite our size). Our industry is renowned for the speed it operates at, and the incredible pace of innovation. Our values include winning together, being bold, exciting customers and driving innovation.
+Development – Both personal and professional development are important to us. Everyone gets 2 paid days to focus on development, along with subscriptions to learning resources like cross knowledge, linkedin learning and our own learning room. Monthly Empower talks from inspirational leaders from outside the industry.
+Wellbeing – Our employee assistance program offers free advice on everything from work advice, relationship advice, legal information, and financial advice. Everyone gets a free subscription to the unmind (mental wellbeing) app. Counselling session are available through EAP. We have a monthly schedule of wellbeing sessions and talks with each office having wellbeing champions and coordinators.
+Flexible benefits package - Annual bonus, employee share scheme, health screening, life assurance, matching pension contributions, lunch vouchers, enhanced vacation package, retail discounts, discounted gym membership, with the ability to flex your benefits package to suit your needs
+Offices - Newly refurbished offices, with chillout spaces and modern facilities
+Social - Fantastic programme of free social activities, from our summer parties and Friday night drinks, we've got you covered.
+Sports - We're as passionate about sports as you are, if you can name a sport, we've probably got a company team.
+What the process looks like:
+Apply and your CV will be reviewed by one of our Talent Acquisition Partners
+Phone screening call with our Talent Acquisition Partner
+30 minute online assessment
+1st interview with the team manager
+Short task to complete and present/discuss back at 2nd interview with team manager and other stakeholders
+Offer and Celebrations!
+#LI-Hybrid
+About The Company
+We’re Entain. Powered by our very own technology and building products that push boundaries, Entain is home to a global family of more than 25 well-known brands and over 24,000 people, but we all play for the same team. When we win, we win together. Our vision is to be the world leader in betting, gaming and interactive entertainment by bringing moments of excitement into people’s lives. We will achieve this through our focus on sustainability and growth, driving change in the fast-paced world of entertainment.
+Diversity and inclusion at Entain
+As a global employer, Entain is committed to providing a safe, fun, and inclusive culture where our people feel like they truly belong. We are a multicultural business that values, celebrates and respects individual differences, so whatever your sexuality, gender, gender identity, ability, age, race, religion or belief, you will have a voice here, and the space to do your best work. Our diverse internal networks provide the support for you to express your views and make a positive difference.
+Wellbeing at Entain
+We want our employees to feel healthy and supported at home and at work. That's why we have our Well-me programme, which provides information, tools and training to help our people look after their mental and physical wellbeing in ways that matter to them.
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Python, Tailwind, Laravel, Livewire, MySQL, MariaDB
+
+Du wolltest schon immer selbstständig werden und bist jetzt bereit, diese Chance zu ergreifen? Wir suchen eine Person, die davon träumt, eine große Softwarefirma mit aufzubauen, Führungsqualitäten besitzt und sich in der Softwarewelt zu Hause fühlt.
+
+Als Unternehmen sind wir spezialisiert auf Web Scraping, Data & Text Mining, Natural Language Processing, Machine Learning und haben eine Plattform für automatisierte, intelligente Leadgenerierung entwickelt. Wir suchen nach zeitlichen Veränderungen wie Managementwechsel, Firmenübernahmen oder Finanzierungsrunden und erkennen so interessante neue Unternehmen für unsere Kunden.
+
+Aufgaben
+
+Du leitest das technische Team von Salesy
+Du bist verantwortlich für alle technischen Aspekte des Unternehmens
+Du bist verantwortlich für das Hiring und den Aufbau des Development Teams
+Du programmierst mit und bist u.a. verantwortlich für:
+Anbindung von Datenquellen und Analyse dieser Quellen
+Entwicklung der Infrastruktur der Firma
+Technischer Lead bei internen Projekten
+Eine laufende Weiterentwicklung der Plattform angepasst an die Bedürfnisse unserer Kunden
+Pflege der technischen Dokumentation
+Du arbeitest direkt an der Strategie des Unternehmens zusammen mit der CEO
+Qualifikation
+
+Deine Leidenschaft liegt in der kreativen Entwicklung von Softwareprodukten
+Du kennst dich mit PHP und Laravel aus
+Du bist interessiert an den Themen: Web Scraping, Data & Text Mining, Natural Language Processing, Machine Learning
+Du hast bereits Erfahrung imBereich des Fullstack Development von min. 5 Jahren und hast bereits eine Leadership-Position gehabt
+Du hast Kenntnisse im BereichDatenbanken und SQL (MySQL, MariaDB)
+Du besitzt problemlösendeFähigkeiten und bist bereit beim Auftreten von Schwierigkeiten auch Eigeninitiative zu ergreifen
+Du bist flexibel und kannst deshalb gut in der lockeren Startup-Atmosphäre arbeiten
+Du hast ein Gespür für Innovationen, bist offen für Neues und hast Freude an kreativer Entwicklung
+Benefits
+
+In der Aufbauphase der Firma bekommst Du ein Monatsbruttogehalt von EUR 3.000,- mit der Entwicklung des Unternehmens steigt dein Gehalt direkt mit
+Du bekommst jährlich steigend Anteile am Unternehmen
+Salesy ist auf Wachstumskurs und konstant in Veränderung - für Dich also der ideale Zeitpunkt, um im technischen Bereich den größten Einfluss zu haben und mit uns das Unternehmen auf das nächste Level zu bringen
+Du wirst ausgestattet mit dem besten Equipment und Möbeln, sowie derneuesten Technik
+Gratis Kaffee und Obst, Tischfußballtische, Flipperautomaten und dieMöglichkeit, dir das Mittagessen direkt ins Büro über Mahlzeit-online liefernzu lassen, warten auf dich
+Du arbeitest in einem fördernden Umfeld in einem großen und hellen Neubau-Büro.Die Räumlichkeiten sind im klimatisierten Dachgeschoss inkl. Dachterrasse, wo wir im Sommer gemeinsam grillen
+Wir organisieren regelmäßig gemeinsame Teamevents und Reisen zu Kongressen
+Du arbeitest mit einem hoch motivierten und smarten Team zusammen
+Wenn Du der/diejenige bist, die/den wir suchen, schicke uns deinen Lebenslauf und Bewerbungsschreiben.
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+(OFFICE: 1050 WIEN & HOMEOFFICE, 38,5 H/week)
+Content Garden Technologies is a 2013 founded marketing technology company with the vision to bring digital advertising to a new age. Native Advertising and Content Marketing are our playground where we are one of the major innovators in digital marketing. We are a team working with great enthusiasm and dedication to change the digital world and our goal is to develop new advertising opportunities that people will enjoy consuming again.
+#whatyoudo
+Develop solutions and take responsibility for the implementation of next level services in an agile team
+Analyze requirements and needs and develop design and architectural concepts
+Ensure and define software development quality through agile development methods
+Create and review code
+Approach each task with an open mind and can-do attitude.
+Problem solving and analysis of bugs on QA and production systems
+Deliver to deadlines
+#softskills
+Confident appearance and ability to communicate clearly with management
+Support and be supported by your colleagues
+Desire to continue learning and seek new approaches and technologies
+Self-starter
+Good verbal communication in German and/or English
+Good problem-solving skills and attention to detail
+Able to receive and deliver constructive criticism
+#technicalexperience
+Several years of practical experience with software design & software architecture as well as with the implementation of software solutions
+Background and extensive experience with server side languages such as PHP Laravel, Python or JavaScript
+Proficiency with fundamental front end languages such as HTML, CSS, JavaScript or TypeScript
+Familiarity with JavaScript frameworks such as Vue.js, AngularJS or React
+Experience with database technologies such as MySQL, PostgreSQL and AWS RDS
+Knowledge of agile processes and principles as well as practical experience with agile development methods
+Practical experience with DevOps principles such as CI/CD tools
+Hands-on mentality and openness towards different cultures and backgrounds
+Experience with containerized services and applications (e.g., Docker, Kubernetes is a plus)
+Experience with REST services in an microservice context (e.g., REST API, GraphQL)
+Know-how about complex system landscapes, design patterns and clean code approaches
+Working understanding of Machine Learning and/or the desire to extend understanding of Machine Learning
+Sound user knowledge of common project management tools such as Atlassian or GitLab
+#whatweoffer
+Active participation in the company
+Professional & personal development
+Owner operated agile company with growth potential
+Self-determined and independent work
+Appreciative and open corporate culture and excellent working atmosphere
+In accordance with the collective agreement, we offer a minimum salary of 3.094,00 euros gross per month (38,5h / week). We are willing to offer overpayment according to your qualifications and working experience.
+Wenn du Teil unseres großartigen Teams werden möchtest, freuen wir uns schon heute auf deine Bewerbung. Entweder direkt über das Kontaktformular oder per E-Mail an: jobs@content-garden.com, z.Hd. Patricia Höreth, People & Culture Managerin.
+Patricia Höreth People & Culture Managerin jobs@content-garden.com +43-664-882 326 64
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Zur Verstärkung unserer technischen Abteilung am Standort Wien suchen wir ab sofort eine/einen Programmierer/in
+IHRE AUFGABEN
+Kreative Lösungsentwicklung für Aufgabenstellungen unserer Kunden
+Projektverantwortung für einzelne Projekte
+Entwickeln von Kundenspezifischen Software Lösungen im WEB-Bereich
+IHR PROFIL
+Einschlägige technische Ausbildung (HTL / FH / Uni)
+Erfahrung im Bereich Programmierung
+Erfahrung im Bereich IT-Support und Administration von Windows-Client und Server-Systemen
+Linux-Kenntnisse
+Kenntnis einer der folgenden Programmiersprachen HTML, CSS, PHP, PYTHON
+Projekterfahrung von Vorteil
+Berufsanfänger sind willkommen
+Sehr gute Deutsch-Kenntnisse
+WIR BIETEN
+Abwechslungsreiche und eigenverantwortliche Tätigkeit
+Langfristige Anstellung in einem erfolgreichen Unternehmen
+Offenes und kollegiales Betriebsklima
+Eine flache Organisationsstruktur und schnelle Entscheidungswege
+IHR GEHALT
+Wir bieten ein attraktives Entgelt für diese Position, welches Ihrer Qualifikation und Erfahrung entspricht. Abhängig von Ihrer Qualifikation und Berufserfahrung ist eine Überzahlung möglich.
+Bei Interesse schicken Sie bitte Ihre aussagekräftige Bewerbung an harald@busta.at.
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+(ab 20 Wochenstunden)
+Wir suchen für die Weiterentwicklung von Webanwendungen auf Basis von PHP / MySQL sowie Javascript eine/einen ProgrammiererIn (ab 20 Wochenstunden).
+Folgendes sollten Sie gut beherrschen:
+die Programmiersprache PHP sowie Javascript
+SQL-Kenntnisse
+Kenntnisse der strukturierten und objektorientierten Programmierung
+Grundkenntnisse in HTML und CSS
+Erfahrung mit Responsive-Design von Vorteil
+Erfahrung im Bereich Information Retrieval von Vorteil (TF/IDF...)
+Gute Deutschkenntnisse (mündlich & schriftlich)
+Ideal wären folgende Fähigkeiten:
+Erfahrung mit
+Java Script-Frameworks (vuejs, KnockoutJS)
+Visualisierungen mit d3js
+NLP-Frameworks (z.B. NLTK, spacy, gensim u.a.)
+Big-Data und Graphen-Datenbanken (z.B. neo4j)
+Weitere Programmiersprachen (z.B. Java, Python)
+Persönliche Anforderungen:
+Selbständigkeit
+Genauigkeit
+Zuverlässigkeit
+Tätigkeiten:
+Programmierung Frontend, Backend, Datenbank
+Auf Wunsch Spezialisierung Frontend/Backend möglich
+Wenn gewünscht: Mitarbeit bei Open-Source-Projekten
+Großteils remote Arbeiten: tägliche Abstimmung via Skype, SVN, Jira etc.
+Wir bieten Ihnen:
+Programmierung mit aktuellen Werkzeugen (Jira, Buildserver, Code-Coverage-Analyse, ...)
+Freie Zeiteinteilung, nach Einarbeitungsphase ist die Arbeit von daheim aus möglich.
+Gemeinsam geplante individuelle Weiterbildung: Kurse, Konferenzen, Online-Kurse, ...
+Freiwillige Nebenleistungen wie Einkaufsgutscheine, Essensgutscheine, Kindergarten-Zuschuss
+Beginn: ab sofort möglich
+Die Bezahlung erfolgt auf Basis des IT-Kollektivvertrags KV Informationstechnologie 2018, Tätigkeitsfamilie ST1 Berufseinsteiger ab 2.273 EUR auf Vollzeitbasis. Eine Überzahlung aufgrund vorhandener Qualifikationen ist möglich.
+Arbeitsstandort: Wien nach Einarbeitungsphase größtenteils REMOTE möglich
+Wenn Sie sich bewerben möchten, dann senden Sie uns ein Email an .
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Wir bauen unser Cyber Risk Advisory Team aus und eröffnen dir individuelle Karrieremöglichkeiten mit spannenden Projekten. Unterstütze unserer Kundinnen und Kunden bei unterschiedlichen Themenstellungen im Cyber Security Umfeld. Bei uns findest du ein kollegiales Umfeld, in welchem du dich sowohl persönlich als auch fachlich weiterentwickeln und wachsen kannst.
+(Senior) PenTester / Red Teaming Consultant (all genders)
+Cyber Risk Advisory
+Deine Aufgaben:
+Durchführung von Security-Testing Projekten und Überprüfung von sicherheitsrelevanten Applikationen, Produkten und Services (alle Arten von Penetrationstests, Code Reviews, Red/Purple Teaming, technische Securityaudits etc.)
+Erstellung von technischen Sicherheitskonzepten und Erarbeitung von kundenspezifischen Maßnahmen zur Behebung gefundener Sicherheitslücken
+Überprüfung von Architekturkonzepten im Rahmen von Bedrohungsanalysen
+Durchführung von Phishing- und Social Engineering Kampagnen
+Planung und Begleitung von technischen Workshops
+Dein Profil:
+Abgeschlossenes Studium mit einschlägiger Spezialisierung bzw. anderswertig erworbene Fachkenntnisse
+(Erste) Berufserfahrung im technischen Beratungsumfeld bzw. als Teil eines Penetration Test Teams, Computer Incident Response Teams, Computer Emergency Response Teams oder im Security Operations Center
+Fachexpertise in System- und Applikationssicherheit, gängigen Penetration Testing Werkzeugen (BurpSuite, Nmap, Kali, Metasploit, etc.)
+Erfahrung in der Softwareentwicklung, mit AWS oder Azure und Kenntnisse von Python, Go, PHP oder C#
+Überzeugende Kommunikationsfähigkeit in Deutsch und Englisch
+Unser Angebot:
+Teamorientiertes und modernes Arbeitsumfeld im Stadtzentrum
+Abwechslungsreiche Tätigkeiten in spannenden nationalen und internationalen Projekten
+Umfassende Aus- und Weiterbildungsprogramme sowie Förderung postgradualer Zertifizierungen (z.B. CISSP, CCSK, CISA, CISM, CEH etc.)
+Ausgezeichnete Karrieremöglichkeiten bei einem Global Player
+Flexibles Arbeitszeitmodell und Home Office möglich
+
+
+Jahresbruttogehalt ab € 37.800,- (nicht All In) auf Level Consultant. Die Vergütung orientiert sich selbstverständlich an deiner individuellen Qualifikation und positionsrelevanten Berufserfahrung. Darüber hinaus bieten wir attraktive Fringe Benefits.
+
+Bei Deloitte legen wir Wert auf eine inklusive und respektvolle Unternehmenskultur. Mehr dazu findest du hier.
+What impact will you make?
+www.deloitte.at/karriere
+Jetzt bewerben
+Eckdaten
+Dienstort/e: Wien, Linz, Salzburg, Graz, Innsbruck
+Ab wann: flexibel
+Anstellungsart: Vollzeit
+Über Deloitte
+Deloitte Österreich ist der führende Anbieter von Professional Services.
+
+Mit rund 1.450 Mitarbeiterinnen und Mitarbeitern an 13 Standorten werden Unternehmen und Institutionen in den Bereichen Wirtschaftsprüfung, Steuerberatung, Consulting, Financial Advisory und Risk Advisory betreut.
+Dein Kontakt
+Theresa Glinzerer, Bakk. phil.
+(+43/1/53700-2513)
+Renngasse 1
+1010 Wien
+www.deloitte.at
+Top 5 Benefits
+www.deloitte.at/benefits
+Stay connected
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Standort: Wien
+Arbeitszeit: Vollzeit (38,5 Stunden pro Woche)
+Hast du schon erste Erfahrung in der Softwareentwicklung sammeln können und möchtest dein Wissen nun weiter vertiefen? Du würdest gern weitere Berufserfahrung bei einem führenden österreichischen Webhostingunternehmen sammeln und unser internes Entwicklerteam unterstützen? Dann haben wir für dich genau das Richtige!
+Für den Sommer 2023 bieten wir an unserem Standort in Wien ein Praktikum im Development an.
+Deine Aufgaben
+Du spezifizierst, entwirfst und implementierst Softwarelösungen
+Du entwickelst eigenverantwortlich und im Team neue Features
+Du setzt Features und Tests in objektorientierter Weise um
+Du automatisierst interne Abläufe
+Du nimmst an Scrum-Meetings teil
+Dein Profil
+Du stehst am Ende deines Bachelor-Studiums oder hast ein laufendes Master-Studium an einer Universität mit Schwerpunkt Informatik/Software Engineering
+Erfahrung in der Entwicklung mit einer objektorientierten Programmiersprache (OOP) wie PHP, Python, Java oder C#
+Erfahrung mit Frameworks wie Symfony, Laravel oder Spring von Vorteil
+erste Erfahrung mit relationalen Datenbanken (SQL)
+sehr gute Deutsch-Kenntnisse in Wort und Schrift
+Teamplayer, hohe Lösungskompetenz sowie strukturierte und genaue Arbeitsweise
+Hast du einen öffentlichen Code auf GitHub und Co? Dann freuen wir uns darauf!
+Anstellungsdauer: 3 Monate im Sommer. Wir freuen uns besonders über Kandidatinnen und Kandidaten, die uns im Anschluss an das Praktikum noch weiter begleiten: Bitte gib in deiner Bewerbung an, ob du danach auf Teilzeitbasis und in welchem Ausmaß weiterarbeiten möchtest.
+Unsere Benefits:
+zeitlich & örtlich flexibles Arbeiten durch hybrides Arbeitsmodell und gelebter Work-Life-Balance
+individuelle Aus- & Weiterbildungsangebote
+moderne Ausstattung für das Home-Office sowie in neu gestalteten, gut erreichbaren Büros (u.a. höhenverstellbare Tische, etc.)
+arbeiten mit innovativen Technologien inklusive Option zur frühen Verantwortungsübernahme
+zahlreiche Mitarbeiter- & Teamevents sowie Fitness- & Gesundheitsmaßnahmen
+zusätzlicher Urlaubstag zum Geburtstag sowie 24.12. und 31.12. ganztags frei
+für die kleine Stärkung zwischendurch gibt es Bio-Obst, Müsli, Getränke und Süßes
+Jahresbruttogehalt:
+auf Basis einer Vollzeitbeschäftigung bieten wir ein Jahresbruttogehalt ab EUR 26.600 brutto je nach Qualifikation und beruflicher Erfahrung.
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Dienstort: Wien
+Arbeitszeit: 38,5 Std.
+Jahres-Bruttogehalt: ab EUR 26.600
+Hast du schon erste Erfahrung in der Softwareentwicklung sammeln können und möchtest dein Wissen nun weiter vertiefen? Du würdest gern weitere Berufserfahrung bei einem führenden österreichischen Webhostingunternehmen sammeln und unser internes Entwicklerteam unterstützen?
+Dann haben wir für dich genau das Richtige!
+Deine Aufgaben
+Du spezifizierst, entwirfst und implementierst Softwarelösungen
+Du entwickelst eigenverantwortlich und im Team neue Features
+Du setzt Features und Tests in objektorientierter Weise um
+Du automatisierst interne Abläufe
+Du nimmst an Scrum-Meetings teil
+Deine Qualifikationen
+Du stehst am Ende deines Bachelor-Studiums oder hast ein laufendes Master-Studium an einer Universität mit Schwerpunkt Informatik/Software Engineering
+Erfahrung in der Entwicklung mit einer objektorientierten Programmiersprache (OOP) wie PHP, Python, Java oder C#
+Erfahrung mit Frameworks wie Symfony, Laravel oder Spring von Vorteil
+erste Erfahrung mit relationalen Datenbanken (SQL)
+sehr gute Deutsch-Kenntnisse in Wort und Schrift
+Teamplayer, hohe Lösungskompetenz sowie strukturierte und genaue Arbeitsweise
+
+Hast du einen öffentlichen Code auf GitHub und Co? Dann freuen wir uns darauf!
+Dein Gehalt
+EUR 1.900.- brutto pro Monat
+
+Anstellungsdauer: 3 Monate im Sommer. Wir freuen uns besonders über Kandidatinnen und Kandidaten, die uns im Anschluss an das Praktikum noch weiter begleiten: Bitte gib in deiner Bewerbung an, ob du danach auf Teilzeitbasis und in welchem Ausmaß weiterarbeiten möchtest.
+Deine Benefits
+Gute Anbindung
+Fitnessangebote
+Flexible Arbeitszeiten
+Mitarbeiter-Events
+Obst
+Getränke
+Barrierefreiheit
+Brettspiele
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Was erwartet dich?
+Du übernimmst die Wartung und Weiterentwicklung unserer AWS-Cloud-Infrastruktur
+Du stellst die Verfügbarkeit unserer Anwendungen wie APIs und Websites durch den Einsatz von Traffic Load Balancing, Compute Auto-Scaling oder DB-Clustern sicher
+Du setzt moderne Technologien zur zuverlässigen Erstellung und Bereitstellung von Infrastruktur als Code (in Containern oder auf virtuellen Maschinen über Terraform & Ansible) ein
+Du minimierst Sicherheitsrisiken durch die Entwicklung und Pflege von Firewall- und automatisierten Backup-Systemen (Virtual Private Cloud und VPN)
+Du überwachst unserer Cloud-Infrastruktur und kümmerst dich um die Fehlersuche
+Du definierst und sammelst relevante Metriken und Protokolle, um die Verfügbarkeit und Stabilität unserer Dienste zu gewährleisten (DataDog, Graylog)
+Du analysierst Ausfälle, Systemfehler und anderen Anomalien in Produktionssystemen (z. B. langsame Datenbankabfragen, API-Ausfälle, unwirksames Caching usw.)
+Du identifizierst und behebst potenzielle Engpässe in unserem Tech-Stack
+Du unterstützt unsere Entwicklungsteams
+Sie richten CI/CD-Pipelines (GitLab) ein und pflegen sie
+Sie evaluieren und testen neue Technologien vor der Produktivsetzung
+Was solltest du mitbringen?
+Du hast einen Bachelor-Abschluss in Informatik oder eine ähnliche Ausbildung
+Du kannst Erfahrung im Umgang mit Linux und Netzwerk- und Internetgrundlagen (TCP/IP, HTTP, DNS) vorweisen
+Du bist mit Skriptsprachen wie Python oder Bash sowie SQL (MySQL) vertraut
+Du besitzt idealerweise Cloud Computing-Kenntnisse, Arbeitserfahrung als System Engineer und Grundkenntnisse in einer der von uns am häufigsten verwendeten Programmiersprachen (PHP, Java, Ruby)
+Du besitzt ausgeprägte analytischen Fähigkeiten und liebst du es, fast jedes Problem proaktiv zu lösen
+Du bist in der Lage, selbstständig zu arbeiten, aber Teamarbeit ist für dich kein Fremdwort
+Du verfügst über Englischkenntnisse auf C1-Niveau, Deutsch wäre ein starkes Plus
+Was bieten wir dir?
+Sei du selbst und beteilige dich an unserer diskriminierungsfreien Unternehmenskultur mit flachen Hierarchien, Offenheit und vielen wirklich netten und anständigen Menschen
+Du erlebst unser schlankes, agiles und hochdynamisches Arbeitsumfeld mit vielfältigen Tätigkeiten und viel Raum für Kreativität und Mitgestaltung unseres gemeinsamen Weges
+Wir unterstützen dich bei der Aufstellung deines persönlichen Entwicklungsplans, Workshops, Trainings und regelmäßigem Feedback.
+Wir arbeiten in modernen, verspielten und zentral gelegenen Büros, ergonomisch ausgestattet und mit täglich frischem Obst, Gemüse & Joghurt sowie einer Tee- und Kaffee-Flatrate mit deiner Lieblingsmilch (vegan-freundlich)
+Laptop, Tastatur, Bildschirm? Hier bekommst du die neueste technische Ausstattung
+Flexible Arbeitszeitmodelle, Vertrauensarbeitszeit, mobile Arbeitsformen sowie die Möglichkeit eines Sabbatjahrs
+Erlebe mit uns legendäre Teamevents und Feiern, wie unser jährliches Sommerfest oder unser Weihnachtsevent
+Bring dein Kind und deinen Hund mit ins Büro und lassen dich von uns mit einem Zuschuss für die Kinderbetreuung unterstützen
+Erhalte exklusive Rabatte bei verschiedenen Anbietern
+Wir sind klimaneutral! Aber es gibt noch mehr zu tun! Engagiere dich als #orangeofficer, um unser Unternehmen noch nachhaltiger zu machen
+Unser Jobangebot IT Manager:in - Support Engineer / AWS Cloud / IT Sicherheit / Python / SQL / Home Office klingt vielversprechend? Dann freuen wir uns auf eine Bewerbung über Workwise.
+Bei unserem Partner Workwise kann man sich in nur wenigen Minuten ohne Anschreiben für diesen Job bewerben und den Status der Bewerbung live verfolgen.
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Du interessierst Dich für neue Technologien und du bist hoch motiviert diese zu erlernen. Du hast Erfahrung in der selbstständigen technischen Koordination und Umsetzung von No-Code- und Low-Code-Applikationen in der Cloud und warst selbst schon als Entwickler tätig. Du schaust über den Tellerrad hinaus und hast einen pragmatischen und funktionellen Ansatz, wenn es darum geht an Problemstellungen ranzugehen.
+#PROFILE
+Als Project Manager - Cloud Service Development bei Anexia richtet sich Dein Fokus auf Implementierung von Cloud Services sowie Digitalisierung und Automatisierung von Prozessen für unsere Kunden. Im Zuge von Workshops erhebst, analysierst und strukturierst Du individuelle Kundenwünsche und erstellst Applikationsarchitekturen auf Basis von bestehenden Cloud Services. Du koordinierst die Aufgabenverteilung innerhalb Deines agilen Entwickler-Teams und überwachst die Abhängigkeiten von Tasks. Aufgaben wie Anforderungserhebung, Erstellung und Aufbereitung von Spezifikationen, sowie Aufbereitung von Change Requests und Software Releases in enger Abstimmung mit dem Kunden gehören ebenso zu Deinem Tätigkeitsbereich, wie auch die fachliche Leitung von Sprint Reviews und Plannings.
+#WANTED
+Informatik-Ausbildung oder entsprechende berufliche Praxis
+Erfahrung im Umgang mit Cloud Services verschiedenster Anbieter (AWS, Azure etc.)
+Praktische Erfahrung als Software Developer idealerweise im Python- oder PHP-Umfeld
+Kenntnisse in der Entwicklung von APIs (REST, GraphQL etc.)
+JIRA und Confluence-Kenntnisse von Vorteil
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+Kommunikationsstärke, selbstständige und zuverlässige Arbeitsweise sowie Teamfähigkeit, Motivation und Eigeninteresse
+#REWARD
+Anexia wurde als Familie groß und das soll auch in unserer Wachstumsstrategie so bleiben. Wir übernehmen gerne Verantwortung, respektieren einander und wir wissen, dass wir alles schaffen können. Wir schauen gut auf Anexia und Anexia schaut auch gut auf uns. Begeisterung, Erfahrung und Kompetenz zählen, daher kannst Du ein faires Gehalt und zahlreiche Benefits erwarten.
+Wir sind mehr als ein Arbeitsplatz. Daher bieten wir unseren Mitarbeiter:innen (teils abhängig von Deiner Position und Deinem Standort) viele Benefits: Gute Verkehrsanbindung, flexible Arbeitszeiten, Aus- und Weiterbildung, Mentoren-Programm, kostenlose Parkplätze, Arbeitshandy- und -notebook, Snacks und Getränke, Firmenwagen, Mitarbeiter:innen-Events, Fun-Corner, u.v.m.
+
+Standort: Wien, Karlsruhe, Klagenfurt, Graz, Remote
+Arbeitszeit: Vollzeit
+Einstiegsgehalt: mind. 48.400€
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+SEQIS ist der führende österreichische Anbieter in den Spezialbereichen IT Analyse, Development, Softwaretest und Projektmanagement. Beratung, Verstärkung und Ausbildung: Hochwertige Qualitätssicherung für die IT. Weitere Informationen zum Unternehmen findest Du unter www.SEQIS.com und www.razzfazz.io
+Zur Verstärkung unseres Teams suchen wir ehestmöglich eine/n
+
+
+Full Stack Developer (m/w/d) – Vollzeit oder Teilzeit (ab 30h)
+
+Du arbeitest von der Homebase in Wien aus projektbasiert an folgenden Themen für unsere Kunden:
+Entwicklung von Progressive Web Apps, Desktop Apps, Mobile Apps, Native Apps
+mit Javascript, Java, .Net, PHP, Python, Ruby, Angular, React, React Native
+…und das alles in einem agilen Umfeld
+
+Als Teil der SEQIS Family mit Homebases in Wien und Mödling genießt Du die Vorteile eines familiären Unternehmens:
+Persönliche und fachliche Weiterentwicklungsmöglichkeiten (Requirements Engineering, Business Analyse, Business Analyse, Testautomatisierung, Testmanagement, Softskills…)
+Familiäre Firmenkultur mit hohem Qualitätsanspruch
+Regelmäßige interne Weiterbildungsworkshops
+Einkaufsvergünstigungen
+Zahlreiche Team Events - wir feiern regelmäßig gemeinsam unserer Erfolge
+Unser Leitbild: Nur was man gerne macht, macht man richtig gut
+
+Folgende Skills und Erfahrungen zeichnen die SEQIS ExpertInnen aus:
+Aufgeschlossenheit gegenüber Menschen und Ideen, sowie Freude an wechselnden Aufgaben
+Ausgeprägter Ehrgeiz, qualitativ hochwertige Lösungen zu entwickeln
+Eine abgeschlossene oder laufende Ausbildung (FH, TU) mit Schwerpunkt im IT- Bereich
+Erfahrungen im Bereich Software Entwicklung
+Ausgezeichnete Deutsch- und Englischkenntnisse (min. C1)
+
+Unser Angebot
+Wir bieten für diese Position in Vollzeit (38,5h) ein attraktives Entgelt, das Deiner Qualifikation und Erfahrung entspricht. Aus gesetzlichen Gründen weisen wir darauf hin, dass ein KV Mindestgehalt von € 39.956,- brutto /Jahr gilt.
+Dienstort: Arsenalstrasse 14, 1110 Wien
+
+Wenn Du Teil unseres sympathischen Teams werden möchtest, sende Deine aussagekräftigen Bewerbungsunterlagen auf Deutsch inklusive Gehaltsvorstellungen per Mail an Mag. Susanne Greber: career@SEQIS.com. Oder schick mir Dein Profil über LinkedIn.
+Stellenanzeige als PDF downloaden
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Python, Tailwind, Laravel, Livewire, MySQL, MariaDB
+Wir sind spezialisiert auf Web Scraping, Data & Text Mining, Natural Language
+Processing und Machine Learning und haben eine
+SaaS-Plattform für automatisierte, intelligente Kundenfindung entwickelt. Unsere
+Vision: Es gibt einen optimalen Zeitpunkt, um Kunden das passende Produkt oder
+eine Dienstleistung zu verkaufen. Wir finden diesen Zeitpunkt mithilfe von künstlicher
+Intelligenz.
+Wir suchen eine/n Software Developer/in,
+der/die motiviert ist, an der Entwicklung dieser Plattform mitzugestalten.
+Aufgaben
+Technische Entwicklung der (Teil-)
+Bereiche des Produktes mit großer Freiheit und Impact auf die Entwicklung im Unternehmen
+Aktive Entwicklung und Mitgestaltung eines Softwareproduktes
+Anbindung von Datenquellen und Analyse dieser Quellen
+Weiterentwicklung der technischen Infrastruktur der Firma
+Technische Projektleitung und Umsetzung mit einem Team von mehreren Entwicklern
+Entscheidungsprozesse datengetrieben steuern
+Pflege der technischen Dokumentation
+Bestehende Konzepte selbstständig neu überdenken und zusammen mit dem Team umsetzen
+Qualifikation
+Du bist interessiert an den Themen: Web Scraping, Data & Text Mining, Natural Language Processing und MachineLearning (Python, PHP)
+Du hast bereits etwas Erfahrung im Bereich des Fullstack Developments von min. 5 Jahren
+Du hast Kenntnisse im Bereich Datenbanken und SQL (MySQL, MariaDB).
+Du besitzt problemlösende Fähigkeiten und bist bereit beim Auftreten von Schwierigkeiten auchEigeninitiative zu ergreifen
+Du bist flexibel und kannst deshalb gut in der lockeren Startup-Atmosphäre arbeiten
+Du möchtest Teil eines jungen, dynamischen Teams sein und arbeitest gerne zusammen mit anderen Personen aneinem Projekt
+Du hast ein Gespür für Innovationen, bist offen für Neues und hast Freude an kreativer Entwicklung
+Benefits
+Du wirst ausgestattet mit dem besten Equipment und Möbeln, sowie der neuesten Technik
+Gratis Kaffee und Obst, Tischfußballtische, Flipperautomaten und die Möglichkeit, dir das Mittagessen direkt ins Büro über Mahlzeit-online liefernzu lassen, warten auf dich
+Du arbeitest in einem fördernden Umfeld in einem großen und hellen Neubau-Büro. Die Räumlichkeiten sind im klimatisierten Dachgeschoss inkl. Dachterrasse, wowir im Sommer gemeinsam grillen
+Wir organisieren regelmäßig gemeinsame Teamevents und Reisen zu Kongressen
+Salesy ist auf Wachstumskurs und konstant in Veränderung, für dich der ideale Zeitpunkt, um im technischen Bereich den größten Einfluss zu haben undmit uns die Firma weiterzuentwickeln
+Du arbeitest mit einem hochmotivierten und smarten Team zusammen und hast einen Mentor, der über 20 Jahre Programmiererfahrung hat, Christoph Rumpel
+Die Bezahlung beginnt bei EUR 55.000,- (brutto) jährlich mit Möglichkeit auf Überbezahlung
+Art der Stelle: Vollzeit
+Gehalt: ab 55.000,00€ pro Jahr
+Arbeitszeiten:
+Montag bis Freitag
+Leistungen:
+Betriebliche Weiterbildung
+Betriebsfeiern
+Erfolgsbeteiligung
+Firmenhandy
+Kostenlose Getränke
+Kostenloses oder Vergünstigtes Essen
+Mentoring-Programm für Mitarbeiter
+Sonderzahlungen:
+13. Monatsgehalt
+Urlaubsgeld
+Weihnachtsgeld
+Berufserfahrung:
+Programmieren: 3 Jahre (Wünschenswert)
+Bewerbungsfrist: 24.12.2022
+Voraussichtliches Einstiegsdatum: 15.12.2022
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Arbeitsort
+Linz, Wien
+Stellenbezeichnung
+Security Consultant – Offensive Security (w/m/d)
+SEC Consult (www.sec-consult.com) ist eines der führenden Beratungsunternehmen für Cyber- und Applikationssicherheit. Das Unternehmen mit Niederlassungen in Europa und Asien ist Spezialist für externe und interne Sicherheitsüberprüfungen, Penetrationstests, den Aufbau von Informationssicherheits-Management und Zertifizierungsbegleitung nach ISO 27001, Cyber-Defence, sichere Software(-Entwicklung) und die schrittweise, nachhaltige Verbesserung des Sicherheitsniveaus.
+Aufgaben
+Du setzt als Informationssicherheitsexperte dein Wissen und deine Fähigkeiten ein um Schwachstellen zu finden, bevor sie von Angreifern ausgenutzt werden
+Du arbeitest in einem globalen Team von Experten an abwechslungsreichen und herausfordernden Kundenprojekten
+Du brennst für das Thema Informationssicherheit und setzt deine Kreativität und dein Auge fürs Detail ein, um für unsere Kunden herausragende Ergebnisse zu liefern
+Qualifikationen
+Gute Kenntnisse im Bereich Applikationssicherheit und Penetration Testing (z.B. Webapplikationen, Mobile Applikationen, Infrastructure-Sicherheit, IoT)
+Erfahrung mit Programmiersprachen wie Python, PHP, C/C++, C# und Java
+Die Fähigkeit sich relevantes Wissen schnell anzueignen
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+Wir bieten
+Mitarbeit in einem erfolgreichen, internationalen und innovativen Sicherheitsunternehmen
+Zugang zu renommierten Trainings und Zertifizierungen (z. B. Offensive Security, SANS/GIAC, CREST)
+Entwicklungsmöglichkeiten in verschiedensten Bereichen, zum Beispiel Red Teaming, Incident Response, IoT/Embedded System Security, IT Infrastructure Secuity, Cloud Security, Mobile Security, SAP Security, Reverse Engineering, Kryptografie …
+Spannendes und abwechslungsreiches Tätigkeitsfeld mit erfahrenen Security-Experten
+Mitarbeit in einem motivierten Team
+Möglichkeit zur persönlichen und fachlichen Weiterentwicklung, Forschung an neuen Technologien, Besuch von Konferenzen und Workshops
+Diverse zusätzliche Benefits
+Arbeit an einem zertifizierten Great Place to Work®
+Für diese Position ist ein monatliches Grundgehalt ab brutto 2.635,- auf Vollzeitbasis vorgesehen. Abhängig von Ihrer Qualifikation und Erfahrung bieten wir eine entsprechend marktkonforme Überzahlung sowie zusätzliche Prämien.
+Bewerbung an
+Christine Teichert, B.A.
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Du brennst darauf bereits während deines Studiums dein Wissen anzuwenden? Zu zeigen was in dir steckt und dein Team mit neuen Ideen zu begeistern? Dann bist du bei Deloitte Cyber Risk Advisory bestens aufgehoben.
+
+Du hast die Möglichkeit für die Dauer von 4-7 Monaten bei uns ein Praktikum zu absolvieren.
+Praktikum Cyber Risk Advisory 2023/24
+Information & IT Security
+Deine Aufgaben:
+Beratung, Entwicklung und Prüfung von Konzepten und Prozessen im Bereich Information und IT Security, Identity & Access Management und Datenschutz (Fokus EU-DSGVO)
+Durchführung von Security und IT-Audits
+Mitarbeit bei internationalen Projekten zu Information Security und IT Security
+Konzeption, Planung und Durchführung von Schwachstellenprüfungen und Penetrationstests in den Bereichen Netzwerksicherheit, Web Applications, Mobile Security, OS Security, Social Engineering
+Dein Profil:
+Student:in der Informatik mit einschlägiger Spezialisierung
+Starkes Interesse an den Bereichen Information Security und IT Security
+Grundlegende Kenntnisse von Scripts und Programmiersprachen (z.B. Python, Java, PHP)
+Idealerweise grundlegende Kenntnisse von Security Frameworks und IT Sicherheitskonzepten
+Sehr gute Deutsch- und Englischkenntnisse
+Unser Angebot:
+Teamorientiertes und modernes Arbeitsumfeld im Stadtzentrum
+Herausfordernde und abwechslungsreiche Tätigkeiten in (inter-)nationalen Projekten
+Einblicke in unterschiedliche Unternehmen verschiedenster Branchen
+Mentoring durch Fachexpert:innen in offener Feedbackkultur
+Flexibles Arbeitszeitmodell und Home Office möglich
+
+
+Jahresbruttogehalt ab € 25.340,-. Die Vergütung orientiert sich selbstverständlich an deiner individuellen Qualifikation und positionsrelevanten Berufserfahrung. Darüber hinaus bieten wir attraktive Fringe Benefits.
+
+Bei Deloitte legen wir Wert auf eine inklusive und respektvolle Unternehmenskultur. Mehr dazu findest du hier.
+What impact will you make?
+www.deloitte.at/karriere
+Jetzt bewerben
+Eckdaten
+Dienstort/e: Wien, Linz
+Ab wann: flexibel
+Anstellungsart: Vollzeit
+Über Deloitte
+Deloitte Österreich ist der führende Anbieter von Professional Services.
+
+Mit rund 1.450 Mitarbeiterinnen und Mitarbeitern an 13 Standorten werden Unternehmen und Institutionen in den Bereichen Wirtschaftsprüfung, Steuerberatung, Consulting, Financial Advisory und Risk Advisory betreut.
+Dein Kontakt
+Theresa Glinzerer, Bakk. phil.
+(+43/1/53700-2513)
+Renngasse 1
+1010 Wien
+www.deloitte.at
+Top 5 Benefits
+www.deloitte.at/benefits
+Stay connected
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Dienstort: Wien oder Remote
+Arbeitszeit: 38,5 Std.
+Jahres-Bruttogehalt: ab EUR 50.000
+In dieser Position kümmerst du dich um die Architektur und Programmierung unseres verteilten Software Stacks für Netzwerk, Backup und unser Mail- und Webhosting. Du bringst deine Neugier oder Erfahrung mit Linux und anderer Open Source Software ein, um unsere Softwareprojekte effizient voranzubringen. Du hast Freude daran, mit Eigeninitiative und Kreativität gut durchdachte Lösungen zu finden? Dann freuen wir uns, dich kennenzulernen!
+Deine Aufgaben
+Du entwickelst unser zentrales Kernsystem für Kunden und Produkte mit Schwerpunkt im Backend Bereich weiter
+Du gestaltest die Software für unsere systemnahen Dienste wie unser Mail- und Webhosting entscheidend mit
+Du entwirfst und implementierst neue APIs und stellst die Integration zwischen unserem Kernsystem und den systemnahen Diensten sicher
+Du bist für die selbstständige Durchführung agiler Projekte in Zusammenarbeit mit KollegInnen deines Teams und anderer Bereiche verantwortlich
+Nach einer Einschulungsphase von 1-2 Wochen vor Ort in Wien ist die Arbeit per remote möglich
+Deine Qualifikationen
+mehrjährige Erfahrung als Software Engineer oder abgeschlossenes Hochschulstudium
+umfassendes Know How mit einer objektorientierten Programmiersprache (OOP) wie PHP, Python, Java oder C#
+Erfahrung mit einem modernen Web-Framework wie Symfony, Laravel oder Spring von Vorteil
+Keine Angst vor großen Datenmengen in relationalen Datenbanken
+Erfahrung mit automatisierten Testframeworks (z.B. PHPUnit, JUnit, Pytest)
+Kenntnisse in Container-Architekturen, Versionsverwaltung (Git), Continuous Integration (CI) und Continuous Delivery (CD) wünschenswert
+Du findest dich auf der Linux-Shell zurecht
+Du magst die Abwechslung und hast keine Scheu davor, dich mit neuen Technologien auseinanderzusetzen
+sehr gute Deutschkenntnisse, Englisch in Wort und Schrift
+Dein Gehalt
+ab EUR 50.000 brutto / Jahr je nach Qualifikation und Erfahrung
+Deine Benefits
+Gute Anbindung
+Fitnessangebote
+Aus- und Weiterbildung
+Home Office
+Flexible Arbeitszeiten
+Mitarbeiter-Events
+Mitarbeitergeschenke
+Gesundheit
+Obst
+Getränke
+Barrierefreiheit
+Brettspiele
+Notebook
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Was erwartet dich?
+Du übernimmst die Wartung und Weiterentwicklung unserer AWS-Cloud-Infrastruktur
+Du stellst die Verfügbarkeit unserer Anwendungen wie APIs und Websites durch den Einsatz von Traffic Load Balancing, Compute Auto-Scaling oder DB-Clustern sicher
+Du setzt moderne Technologien zur zuverlässigen Erstellung und Bereitstellung von Infrastruktur als Code (in Containern oder auf virtuellen Maschinen über Terraform & Ansible) ein
+Du minimierst Sicherheitsrisiken durch die Entwicklung und Pflege von Firewall- und automatisierten Backup-Systemen (Virtual Private Cloud und VPN)
+Du überwachst unserer Cloud-Infrastruktur und kümmerst dich um die Fehlersuche
+Du definierst und sammelst relevante Metriken und Protokolle, um die Verfügbarkeit und Stabilität unserer Dienste zu gewährleisten (DataDog, Graylog)
+Du analysierst Ausfälle, Systemfehler und anderen Anomalien in Produktionssystemen (z. B. langsame Datenbankabfragen, API-Ausfälle, unwirksames Caching usw.)
+Du identifizierst und behebst potenzielle Engpässe in unserem Tech-Stack
+Du unterstützt unsere Entwicklungsteams
+Sie richten CI/CD-Pipelines (GitLab) ein und pflegen sie
+Sie evaluieren und testen neue Technologien vor der Produktivsetzung
+Was solltest du mitbringen?
+Du hast einen Bachelor-Abschluss in Informatik oder eine ähnliche Ausbildung
+Du kannst Erfahrung im Umgang mit Linux und Netzwerk- und Internetgrundlagen (TCP/IP, HTTP, DNS) vorweisen
+Du bist mit Skriptsprachen wie Python oder Bash sowie SQL (MySQL) vertraut
+Du besitzt idealerweise Cloud Computing-Kenntnisse, Arbeitserfahrung als System Engineer und Grundkenntnisse in einer der von uns am häufigsten verwendeten Programmiersprachen (PHP, Java, Ruby)
+Du besitzt ausgeprägte analytischen Fähigkeiten und liebst du es, fast jedes Problem proaktiv zu lösen
+Du bist in der Lage, selbstständig zu arbeiten, aber Teamarbeit ist für dich kein Fremdwort
+Du verfügst über Englischkenntnisse auf C1-Niveau, Deutsch wäre ein starkes Plus
+Was bieten wir dir?
+Sei du selbst und beteilige dich an unserer diskriminierungsfreien Unternehmenskultur mit flachen Hierarchien, Offenheit und vielen wirklich netten und anständigen Menschen
+Du erlebst unser schlankes, agiles und hochdynamisches Arbeitsumfeld mit vielfältigen Tätigkeiten und viel Raum für Kreativität und Mitgestaltung unseres gemeinsamen Weges
+Wir unterstützen dich bei der Aufstellung deines persönlichen Entwicklungsplans, Workshops, Trainings und regelmäßigem Feedback.
+Wir arbeiten in modernen, verspielten und zentral gelegenen Büros, ergonomisch ausgestattet und mit täglich frischem Obst, Gemüse & Joghurt sowie einer Tee- und Kaffee-Flatrate mit deiner Lieblingsmilch (vegan-freundlich)
+Laptop, Tastatur, Bildschirm? Hier bekommst du die neueste technische Ausstattung
+Flexible Arbeitszeitmodelle, Vertrauensarbeitszeit, mobile Arbeitsformen sowie die Möglichkeit eines Sabbatjahrs
+Erlebe mit uns legendäre Teamevents und Feiern, wie unser jährliches Sommerfest oder unser Weihnachtsevent
+Bring dein Kind und deinen Hund mit ins Büro und lassen dich von uns mit einem Zuschuss für die Kinderbetreuung unterstützen
+Erhalte exklusive Rabatte bei verschiedenen Anbietern
+Wir sind klimaneutral! Aber es gibt noch mehr zu tun! Engagiere dich als #orangeofficer, um unser Unternehmen noch nachhaltiger zu machen
+Unser Jobangebot IT Manager:in - Support Engineer / AWS Cloud / IT Sicherheit / Python / SQL / Home Office klingt vielversprechend? Dann freuen wir uns auf eine Bewerbung über Campusjäger by Workwise.
+Bei unserem Partner Campusjäger kann man sich in nur wenigen Minuten ohne Anschreiben für diesen Job bewerben und den Status der Bewerbung live verfolgen.
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+AT / Vienna / Wolfganggasse
+Präsenz / Mobil
+Berufserfahrung
+Vollzeit
+Jahresgehalt: 55.000 - 70.000 EUR
+Publiziert: 11.01.2023
+A company of K-Businesscom
+At K-Converged Services (KCS), a company of K-Businesscom, we are the specialist for development and implementation of converged IT services and IT solutions. With more than 110 dedicated colleagues at our locations in Vienna and Graz, we are working together on creative, future-proof solutions for the digital transformation.
+
+Monitoring data is right up your alley, at best with Splunk? We have an offer for you!
+#To-do:
+As Senior NMS Engineer you will be able to live your desire for monitoring whilst working, especially in these things:
+E2E responsibility for the development, maintenance, enhancement and run of the monitoring solution Splunk
+Ensuring availability of network monitoring and assurance systems (in the area of IT and Network Operations) for our customers
+Performing application and infrastructure analysis and troubleshooting
+Define, design and deploy new monitoring and assurance solutions for different technologies
+#YOU:
+Technical university degree or several years of equivalent technical work experience.
+Experience in Splunk is highly preferred, experience in Nagios, Spectrum, open source is also an advantage
+Hands-on knowledge in IP networking technologies, operating system/server management (UNIX/LINUX)
+Scripting skills on any of these languages: Python, PHP, Perl, Shell, Java
+Good English skills are a must, German is a plus
+#WHY:K
+At KCS we walk the talk and deliver. And perhaps soon together with you?
+Perspective // our promise: crisis-proof | flat hierarchies | agile thinking | growth perspective in the DACH region
+Social Benefits // we live it: we attach importance to well-being & satisfaction | from A like Auto parking to Z like Zoo allowances | flexitime without core time | pension scheme | shopping discounts | green mobility (including job and climate ticket, company bike).
+Agile Spirit // that's us: Flexibility in all phases of life | New Work | Remote Working | You-culture from internship to management
+Attractive compensation: we offer you compensation well above the applicable telecommunications CLA, ranging from EUR 55,000 to EUR 70,000 gross pa. We will dicuss the details personally.
+... cleared for take-off? Take-off with us! Start your boarding right now online or via E-Mail to kcs.people@k-business.com
+#JOIN:THE:DIGITAL:REVOLUTION
+
+Your contact:
+"Are you ready for the digital world? I happily support you throughout your KCS boarding!"
+Bettina Schwab
+People Operations Specialist
++43 676 8520306501
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Reisebegleitung für die Cloud Journey gesucht. Deine Erfahrung, Sorgfalt und Leidenschaft als Expert:in für Google Cloud Platform (GCP) Lösungen machen dich zu einer tragenden Stütze des Accenture Google Cloud Teams, dem führenden GCP-Partner in der DACH-Region. Komm an Bord eines der weltweit größten Beratungs- und Technologieunternehmen und hilf uns, namhafte Kunden mit GCP fit für ihre Reise zur Cloud zu machen, um sie so auf ihrem cloud-optimierten Weg in die Zukunft zu begleiten. Im sicheren, grenzenlosen Chancen-Umfeld bei Accenture erlebst du dabei nicht nur Beratung, Integration und Entwicklung, sondern auch auch Lizenzierung und Training aus einer Hand.
+Das erwartet dich
+Rund um Google-Cloud-Themen und Technologieentscheidungen berätst du Kunden und stellst ihnen geeignete Lösungen für die Google Cloud Platform (GCP) vor.
+In Zusammenarbeit mit Teams auf Kundenseite findest du die jeweils passende, ganzheitlich-optimierte Lösung, die du im Anschluss scriptest, codest und implementierst.
+Von Zeit zu Zeit übernimmst du auch interne Aufgaben (z. B. im Zusammenhang mit Ausschreibungen) und bringst so das Business Development voran.
+Darüber hinaus liegen Requirement- und Risiko-Analyse in deinen Aufgabenbereich.
+
+Darauf freuen wir uns
+Abgeschlossenes technisches Studium in (Wirtschafts-)Informatik, BWL oder einer vergleichbaren Fachrichtung
+Mindestens zwei Jahre Berufserfahrung im Bereich IT oder IT-Architektur
+Erfahrung mit GCP (GCP-Zertifizierung wäre von großem Vorteil) und Erfahrung in einer der gängigen Programmiersprachen (z. B. Java, Python, JavaScript, Go, PHP o. ä.)
+Gute People Management Skills
+Deine Vorteile bei Accenture
+Du als Mensch bist uns wichtig. Das wirst du täglich spüren und erleben. Denn unsere Arbeitswelt ist auf dich ausgerichtet und bietet dir die umfassenden Benefits eines großen, verantwortungsvollen Arbeitgebers. Dein zukünftiges Team schätzt vor allem
+flexible Arbeitszeitmodelle und die Option, im Homeoffice zu arbeiten
+umfassende Trainingsangebote, Fort- und Weiterbildungsmöglichkeiten
+interessante Karriereoptionen
+unsere Arbeitskultur, die Diversität und Inklusion fördert
+Dein Kontakt
+Du hast Fragen? Dann wende dich gerne an unser Recruiting Team per E-Mail an recruiting_austria@accenture.com.
+Basierend auf deiner persönlichen Leistung hast du bei uns die Möglichkeit, dein Jahreseinkommen aktiv positiv zu beeinflussen. Das Jahresbruttogehalt startet bei dieser Position bei € 50.000.
+
+Wir freuen uns auf deine Bewerbung!
+#CIE #BusinessGroups
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Python, Tailwind, Laravel, Livewire, MySQL, MariaDB
+
+Wir sind spezialisiert auf Web Scraping, Data & Text Mining, Natural Language
+Processing und Machine Learning und haben eine
+SaaS-Plattform für automatisierte, intelligente Kundenfindung entwickelt. Unsere
+Vision: Es gibt einen optimalen Zeitpunkt, um Kunden das passende Produkt oder
+eine Dienstleistung zu verkaufen. Wir finden diesen Zeitpunkt mithilfe von künstlicher
+Intelligenz.
+
+Wir suchen eine/n Software Developer/in,
+der/die motiviert ist, an der Entwicklung dieser Plattform mitzugestalten.
+
+Aufgaben
+
+Technische Entwicklung der (Teil-)
+Bereiche des Produktes mit großer Freiheit und Impact auf die Entwicklung im
+Unternehmen
+Aktive Entwicklung und
+Mitgestaltung eines Softwareproduktes
+Anbindung von Datenquellen und
+Analyse dieser Quellen
+Weiterentwicklung der technischen
+Infrastruktur der Firma
+Technische Projektleitung und Umsetzung
+mit einem Team von mehreren Entwicklern
+Entscheidungsprozesse
+datengetrieben steuern
+Pflege der technischen
+Dokumentation
+Bestehende Konzepte selbstständig
+neu überdenken und zusammen mit dem Team umsetzen
+
+Qualifikation
+
+Du bist interessiert an den Themen:
+Web Scraping, Data & Text Mining, Natural Language Processing und Machine
+Learning (Python, PHP)
+Du hast bereits etwas Erfahrung im
+Bereich des Fullstack Developments von min. 5 Jahren
+Du hast Kenntnisse im Bereich
+Datenbanken und SQL (MySQL, MariaDB).
+Du besitzt problemlösende
+Fähigkeiten und bist bereit beim Auftreten von Schwierigkeiten auch
+Eigeninitiative zu ergreifen
+Du bist flexibel und kannst
+deshalb gut in der lockeren Startup-Atmosphäre arbeiten
+Du möchtest Teil eines jungen,
+dynamischen Teams sein und arbeitest gerne zusammen mit anderen Personen an
+einem Projekt
+Du hast ein Gespür für
+Innovationen, bist offen für Neues und hast Freude an kreativer Entwicklung
+
+Benefits
+
+Du wirst ausgestattet mit dem besten Equipment und Möbeln, sowie der
+neuesten Technik
+Gratis Kaffee und Obst, Tischfußballtische, Flipperautomaten und die
+Möglichkeit, dir das Mittagessen direkt ins Büro über Mahlzeit-online liefern
+zu lassen, warten auf dich
+Du arbeitest in einem fördernden Umfeld in einem großen und hellen Neubau-Büro.
+Die Räumlichkeiten sind im klimatisierten Dachgeschoss inkl. Dachterrasse, wo
+wir im Sommer gemeinsam grillen
+Wir organisieren regelmäßig gemeinsame Teamevents und Reisen zu Kongressen
+Salesy ist auf Wachstumskurs und konstant in Veränderung, für dich der
+ideale Zeitpunkt, um im technischen Bereich den größten Einfluss zu haben und
+mit uns die Firma weiterzuentwickeln
+Du arbeitest mit einem hochmotivierten und smarten Team zusammen und
+hast einen Mentor, der über 20 Jahre Programmiererfahrung hat, Christoph Rumpel
+Die Bezahlung beginnt bei EUR 55.000,- (brutto) jährlich mit
+Möglichkeit auf Überbezahlung
+
+Falls du dich eher als Junior siehst, bewirb dich trotzdem und wir
+arbeiten gemeinsam einen Plan aus, damit du dich fachlich und persönlich
+konstant und langfristig weiterentwickeln kannst
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Du bleibst Du - denn so wollen wir Dich
+Wir können, wir wollen und wir dürfen auch &mdash; denn wir sind ein Team aus hoch motivierten und qualifizierten Mitarbeiter:innen, denen es genauso am Herzen liegt Kund:innen zu begeistern, wie an technischen Lösungen zu bauen. Und das macht uns einzigartig! Wenn Du Dich und unsere Produkte weiter entwickeln möchtest, dann komm zu uns und gestalte die Zukunft von netcup mit!
+Cloud Native Engineer (m/w/d)
+ab sofort | Vollzeit | Wien, Karlsruhe, Klagenfurt, Graz, Remote
+Du interessierst Dich für neue Technologien und du bist hoch motiviert diese zu erlernen. Du hast Erfahrung in der selbstständigen technischen Koordination und Umsetzung von No-Code- und Low-Code-Applikationen in der Cloud und warst selbst schon als Entwickler tätig. Du schaust über den Tellerrad hinaus und hast einen pragmatischen und funktionellen Ansatz, wenn es darum geht an Problemstellungen ranzugehen.
+#PROFILE
+Als Project Manager - Cloud Service Development bei Anexia richtet sich Dein Fokus auf Implementierung von Cloud Services sowie Digitalisierung und Automatisierung von Prozessen für unsere Kunden. Im Zuge von Workshops erhebst, analysierst und strukturierst Du individuelle Kundenwünsche und erstellst Applikationsarchitekturen auf Basis von bestehenden Cloud Services. Du koordinierst die Aufgabenverteilung innerhalb Deines agilen Entwickler-Teams und überwachst die Abhängigkeiten von Tasks. Aufgaben wie Anforderungserhebung, Erstellung und Aufbereitung von Spezifikationen, sowie Aufbereitung von Change Requests und Software Releases in enger Abstimmung mit dem Kunden gehören ebenso zu Deinem Tätigkeitsbereich, wie auch die fachliche Leitung von Sprint Reviews und Plannings.
+#WANTED
+Informatik-Ausbildung oder entsprechende berufliche Praxis
+Erfahrung im Umgang mit Cloud Services verschiedenster Anbieter (AWS, Azure etc.)
+Praktische Erfahrung als Software Developer idealerweise im Python- oder PHP-Umfeld
+Kenntnisse in der Entwicklung von APIs (REST, GraphQL etc.)
+JIRA und Confluence-Kenntnisse von Vorteil
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+Kommunikationsstärke, selbstständige und zuverlässige Arbeitsweise sowie Teamfähigkeit, Motivation und Eigeninteresse
+#WAS WIR BIETEN
+Überdurchschnittliches Gehalt
+Persönliche Entwicklung und Weiterbildung
+Auf Deine individuellen Bedürfnisse zugeschnittene Gratisaktionen
+Großzügige Freizeiträume
+Familiäres und unterstützendes Arbeitsumfeld
+Haben wir Dein Interesse geweckt?
+Wir freuen uns auf Deine ausdrucksstarke Bewerbung!
+#ABOUT
+Das 2008 gegründete Unternehmen ist mittlerweile seit 2016 Teil der internationalen Anexia Gruppe und betreut als Internet Service Provider weltweit über 75.000 Geschäfts- und Privatkund:innen. Unser Schwerpunkt liegt in der Bereitstellung von Webhostings, virtuellen und dedizierten Servern sowie deren Betreuung durch Management-Dienstleistungen. Ebenfalls bieten wir unseren Kund:innen eine große Auswahl an Top Level Domains an.
+Wir betreuen weltweit über 75.000 zufriedene Kunden:innen mit 150.000 Domains
+Unsere Qualität wurde mehrfach ausgezeichnet - Chip Auszeichnung sehr gut
+Teil der Anexia Gruppe mit über 300 Mitarbeitern:innen und mehr als 10 Bürostandorten, weltweit
+Du hast noch Fragen?Marina MAROS
+|
+Telefon: +49 721 7540 755 0
+|
+E-Mail: jobs@netcup.de
+Art der Stelle: Vollzeit
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+About The Role
+Entain is one of the world’s largest sports betting and gaming groups, operating both online and in the retail sector. With offices across five continents and licences in more than 20 countries, we operate some of the most well-known and iconic brands in the industry with more than 250 years of combined history – names such as Ladbrokes, partypoker, bwin and Coral.
+The Role in a Nutshell:
+As an application security engineer you will work closely with the development and operations teams to implement, rollout and support the operation of security controls at the application layer. This role detects new security needs, evaluates the best controls to integrate in the applications, develops and tests proof of concept, supports the engineering implementation and the rollout as required.
+We are looking for a passionate application security engineer with a hands-on experience in the area of applications security.
+What you’ll be doing:
+Support the operation of application-level security controls.
+Develop tools to improve the security of our applications.
+Incorporate security best-practices in development, testing and DevOps, then mentor and train developers and DevOps management on them.
+Test and improve the security posture of our Products.
+Execute projects to implement the group Application Security strategy.
+Support the investigation of incidents related to application security weaknesses, gaming platform anomalies & integrity compromises.
+Conduct application-level penetration testing/vulnerability assessments and independent reviews of source code repositories.
+Occasional travel to Development centres
+What we need from you:
+The role requires a person with outstanding technical foundations, that has information security background and very good problem-solving skills, been able to have a peer relationship with developers and DevOps.
+Essential
+At least two years of experience in a similar Information Security position
+Design and development of security tools
+Vulnerability research
+Customer-oriented person, with the ability to educate and influence a technical audience on Application Security matters
+Experience in relevant development languages (at least one of Java, C/C++, Perl, PHP, C#, Python)
+Experience in the following areas:
+Knowledge of major frameworks and support libraries (SPRING, OSGI, .NET, etc.)
+Application-level penetration testing
+Desired
+Software engineering background
+Web-Application Firewalls (WAF) experience
+Online Gaming security experience
+Regulatory and industry standards work: ISO27001, PCI-DSS, etc.
+Experience in DevOps
+Relevant professional qualifications will be considered, although not a requirement, e.g. GIAC, CISA, CISM, CISSP, OSCP, CEH, etc.
+What we can offer you:
+Hybrid working – We offer 2 days a week working from home
+Culture – We were once a startup and still have that growth mindset (despite our size). Our industry is renowned for the speed it operates at, and the incredible pace of innovation. Our values include winning together, being bold, exciting customers and driving innovation.
+Development – Both personal and professional development are important to us. Everyone gets 2 paid days to focus on development, along with subscriptions to learning resources like cross knowledge, linkedin learning and our own learning room. Monthly Empower talks from inspirational leaders from outside the industry.
+Wellbeing – Our employee assistance program offers free advice on everything from work advice, relationship advice, legal information, and financial advice. Everyone gets a free subscription to the unmind (mental wellbeing) app. Counselling session are available through EAP. We have a monthly schedule of wellbeing sessions and talks with each office having wellbeing champions and coordinators.
+Flexible benefits package - Annual bonus, employee share scheme, health screening, life assurance, matching pension contributions, lunch vouchers, enhanced vacation package, retail discounts, discounted gym membership, with the ability to flex your benefits package to suit your needs
+Offices - Newly refurbished offices, with chillout spaces and modern facilities
+Social - Fantastic programme of free social activities, from our summer parties and Friday night drinks, we've got you covered.
+Sports - We're as passionate about sports as you are, if you can name a sport, we've probably got a company team.
+What the process looks like:
+Apply and your CV will be reviewed by one of our Talent Acquisition Partners
+Phone screening call with our Talent Acquisition Partner
+30 minute online assessment
+1st interview with the team manager
+Short task to complete and present/discuss back at 2nd interview with team manager and other stakeholders
+Offer and Celebrations!
+#LI-Hybrid
+About The Company
+We’re Entain. Powered by our very own technology and building products that push boundaries, Entain is home to a global family of more than 25 well-known brands and over 24,000 people, but we all play for the same team. When we win, we win together. Our vision is to be the world leader in betting, gaming and interactive entertainment by bringing moments of excitement into people’s lives. We will achieve this through our focus on sustainability and growth, driving change in the fast-paced world of entertainment.
+Diversity and inclusion at Entain
+As a global employer, Entain is committed to providing a safe, fun, and inclusive culture where our people feel like they truly belong. We are a multicultural business that values, celebrates and respects individual differences, so whatever your sexuality, gender, gender identity, ability, age, race, religion or belief, you will have a voice here, and the space to do your best work. Our diverse internal networks provide the support for you to express your views and make a positive difference.
+Wellbeing at Entain
+We want our employees to feel healthy and supported at home and at work. That's why we have our Well-me programme, which provides information, tools and training to help our people look after their mental and physical wellbeing in ways that matter to them.
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Python, Tailwind, Laravel, Livewire, MySQL, MariaDB
+
+Du wolltest schon immer selbstständig werden und bist jetzt bereit, diese Chance zu ergreifen? Wir suchen eine Person, die davon träumt, eine große Softwarefirma mit aufzubauen, Führungsqualitäten besitzt und sich in der Softwarewelt zu Hause fühlt.
+
+Als Unternehmen sind wir spezialisiert auf Web Scraping, Data & Text Mining, Natural Language Processing, Machine Learning und haben eine Plattform für automatisierte, intelligente Leadgenerierung entwickelt. Wir suchen nach zeitlichen Veränderungen wie Managementwechsel, Firmenübernahmen oder Finanzierungsrunden und erkennen so interessante neue Unternehmen für unsere Kunden.
+
+Aufgaben
+
+Du leitest das technische Team von Salesy
+Du bist verantwortlich für alle technischen Aspekte des Unternehmens
+Du bist verantwortlich für das Hiring und den Aufbau des Development Teams
+Du programmierst mit und bist u.a. verantwortlich für:
+Anbindung von Datenquellen und Analyse dieser Quellen
+Entwicklung der Infrastruktur der Firma
+Technischer Lead bei internen Projekten
+Eine laufende Weiterentwicklung der Plattform angepasst an die Bedürfnisse unserer Kunden
+Pflege der technischen Dokumentation
+Du arbeitest direkt an der Strategie des Unternehmens zusammen mit der CEO
+Qualifikation
+
+Deine Leidenschaft liegt in der kreativen Entwicklung von Softwareprodukten
+Du kennst dich mit PHP und Laravel aus
+Du bist interessiert an den Themen: Web Scraping, Data & Text Mining, Natural Language Processing, Machine Learning
+Du hast bereits Erfahrung imBereich des Fullstack Development von min. 5 Jahren und hast bereits eine Leadership-Position gehabt
+Du hast Kenntnisse im BereichDatenbanken und SQL (MySQL, MariaDB)
+Du besitzt problemlösendeFähigkeiten und bist bereit beim Auftreten von Schwierigkeiten auch Eigeninitiative zu ergreifen
+Du bist flexibel und kannst deshalb gut in der lockeren Startup-Atmosphäre arbeiten
+Du hast ein Gespür für Innovationen, bist offen für Neues und hast Freude an kreativer Entwicklung
+Benefits
+
+In der Aufbauphase der Firma bekommst Du ein Monatsbruttogehalt von EUR 3.000,- mit der Entwicklung des Unternehmens steigt dein Gehalt direkt mit
+Du bekommst jährlich steigend Anteile am Unternehmen
+Salesy ist auf Wachstumskurs und konstant in Veränderung - für Dich also der ideale Zeitpunkt, um im technischen Bereich den größten Einfluss zu haben und mit uns das Unternehmen auf das nächste Level zu bringen
+Du wirst ausgestattet mit dem besten Equipment und Möbeln, sowie derneuesten Technik
+Gratis Kaffee und Obst, Tischfußballtische, Flipperautomaten und dieMöglichkeit, dir das Mittagessen direkt ins Büro über Mahlzeit-online liefernzu lassen, warten auf dich
+Du arbeitest in einem fördernden Umfeld in einem großen und hellen Neubau-Büro.Die Räumlichkeiten sind im klimatisierten Dachgeschoss inkl. Dachterrasse, wo wir im Sommer gemeinsam grillen
+Wir organisieren regelmäßig gemeinsame Teamevents und Reisen zu Kongressen
+Du arbeitest mit einem hoch motivierten und smarten Team zusammen
+Wenn Du der/diejenige bist, die/den wir suchen, schicke uns deinen Lebenslauf und Bewerbungsschreiben.
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+(OFFICE: 1050 WIEN & HOMEOFFICE, 38,5 H/week)
+Content Garden Technologies is a 2013 founded marketing technology company with the vision to bring digital advertising to a new age. Native Advertising and Content Marketing are our playground where we are one of the major innovators in digital marketing. We are a team working with great enthusiasm and dedication to change the digital world and our goal is to develop new advertising opportunities that people will enjoy consuming again.
+#whatyoudo
+Develop solutions and take responsibility for the implementation of next level services in an agile team
+Analyze requirements and needs and develop design and architectural concepts
+Ensure and define software development quality through agile development methods
+Create and review code
+Approach each task with an open mind and can-do attitude.
+Problem solving and analysis of bugs on QA and production systems
+Deliver to deadlines
+#softskills
+Confident appearance and ability to communicate clearly with management
+Support and be supported by your colleagues
+Desire to continue learning and seek new approaches and technologies
+Self-starter
+Good verbal communication in German and/or English
+Good problem-solving skills and attention to detail
+Able to receive and deliver constructive criticism
+#technicalexperience
+Several years of practical experience with software design & software architecture as well as with the implementation of software solutions
+Background and extensive experience with server side languages such as PHP Laravel, Python or JavaScript
+Proficiency with fundamental front end languages such as HTML, CSS, JavaScript or TypeScript
+Familiarity with JavaScript frameworks such as Vue.js, AngularJS or React
+Experience with database technologies such as MySQL, PostgreSQL and AWS RDS
+Knowledge of agile processes and principles as well as practical experience with agile development methods
+Practical experience with DevOps principles such as CI/CD tools
+Hands-on mentality and openness towards different cultures and backgrounds
+Experience with containerized services and applications (e.g., Docker, Kubernetes is a plus)
+Experience with REST services in an microservice context (e.g., REST API, GraphQL)
+Know-how about complex system landscapes, design patterns and clean code approaches
+Working understanding of Machine Learning and/or the desire to extend understanding of Machine Learning
+Sound user knowledge of common project management tools such as Atlassian or GitLab
+#whatweoffer
+Active participation in the company
+Professional & personal development
+Owner operated agile company with growth potential
+Self-determined and independent work
+Appreciative and open corporate culture and excellent working atmosphere
+In accordance with the collective agreement, we offer a minimum salary of 3.094,00 euros gross per month (38,5h / week). We are willing to offer overpayment according to your qualifications and working experience.
+Wenn du Teil unseres großartigen Teams werden möchtest, freuen wir uns schon heute auf deine Bewerbung. Entweder direkt über das Kontaktformular oder per E-Mail an: jobs@content-garden.com, z.Hd. Patricia Höreth, People & Culture Managerin.
+Patricia Höreth People & Culture Managerin jobs@content-garden.com +43-664-882 326 64
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+Who we are
+Bitpanda simplifies wealth creation. Founded in 2014 in Vienna, Austria by Eric Demuth, Paul Klanschek and Christian Trummer, Bitpanda exists to help people trust themselves enough to build financial freedom for their future. Our user-friendly, trade-everything platform empowers both first-time investors and seasoned experts to invest in the cryptocurrencies, crypto indices, stocks, precious metals and commodities they want — all possible with any sized budget, 24/7. With more than 700 team members and steadily approaching 4 million customers, our company is one of Europe's most successful fintechs.
+Headquartered in Austria but operating across all of Europe, our products are built by fast-moving, talented, "roll-up-your-sleeves-and-make-it-happen" kind of people who represent more than 50 nationalities. If you're someone who thinks big, moves fast and wants to make an impact right from day one, then get ready to join our industry-changing team. Let's go!
+Your mission
+Reporting to the VP of Product & Engineering, your mission will be to actively contribute to make Bitpanda's platform scalable, performant, observable, resilient and secure.
+You will be a reference to the other members of the engineering team and proactively grow their technical skills within the company. Through guidance, mentorship and hands-on contributions, you'll engage technical and non-technical stakeholders and elevate our engineering standards and technology in the entire product and engineering organisation.
+What you'll do
+Grow and inspire the Product and Engineering organisation, while providing technical guidance for highly complex initiatives. Conceive plans and conduct research in relevant problem areas or new technology of considerable scope and complexity.
+As an excellent communicator, you will gather requirements and pave the way for consensus on the creation and adoption of architectural decision records across multiple departments. You will lead smaller teams of senior engineers to deliver high impact initiatives crucial for Bitpanda's business goals.
+Align with the company strategy and explore technologies which can have a positive impact for Bitpanda in the years to come
+Analyze potential business opportunities for their benefits and risks and deduct clear decisions
+Create detailed, comprehensive, and well-structured architectural diagrams and technical documents, as well as maintain Bitpanda's reference architecture framework
+Who you are
+Ability to operate effectively and autonomously across multiple teams, and navigate technical ambiguity with only high-level direction. You have experience in large scale adoption of reactive systems and are able to break down complex initiatives into smaller iterations that involve other engineering and product teams
+You have a BS in Information Systems, Computer Engineering, Informatics or equivalent professional experience. You have advanced knowledge and experience with building reactive microsystems leveraging event or message driven architecture for systems with high and variable load and experienced with various service integration patterns
+You're proficient with many of the following tools and technologies: AWS core infrastructure components as well as managed services (like EKS, Aurora, DynamoDB, ElasticCache), Terraform, GitLab CI, Kafka, Kubernetes, 2 of Java/Kotlin/Go/Python/PHP, GraphQL, MySql, PostgreSQL, Redis, various SRE tools.
+You have demonstrated ability to design secure and contemporary systems running on public cloud leveraging a modern techstack that offers good developer experience for participating teams both from development and operations perspective
+You are highly collaborative as well as focused and able to build relationships across all departments even beyond the engineering department and at different organisational levels. Be self-driven, and show the ability to deliver on ambiguous projects in spite of incomplete or inaccurate data.
+What's in it for you
+Flexibility-first approach to work* including:
+Unlimited fully-paid annual leave
+Recharge Breaks
+20 weeks gender-neutral New Parent Leave
+Hybrid Working*:
+60 days Work From Anywhere* following the 80/20 Rule
+€500 Work from Home budget
+An attractive individual stock option plan* in a high growth company, and a competitive salary
+Exclusive premiums when trading on Bitpanda
+Occasional company-wide and team events — both in-person and virtually!
+Learning & development opportunities
+Top-notch "tech pack" – your choice between PC or Mac
+Bitpanda merch to keep you swagged out and living the Bitpanda brand
+A global Bitpanda team of fast-moving, talented, "roll-up-your-sleeves-and-make-it-happen" kind of people who are united (across cultures and time zones) by our unique way of working
+These benefits do not apply for our internships and exceptions to our Hybrid Working policy apply to teams with shift schedules or for folks whose roles require them to be in office (think: Workplaces team or IT).
+And, above all, the opportunity to learn & grow as part of Bitpanda's incredible journey towards being Europe's future #1 investment platform.
+Bitpanda is committed to fostering a fair and equal environment based on trust and mutual respect. We believe that a diverse and inclusive workplace is paramount to our success and we are committed to building a team that represents a wide variety of backgrounds, perspectives, and skills.
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
